@@ -1,0 +1,4221 @@
+{
+  "scan_time": "2026-03-30T05:57:44.898563+00:00",
+  "stats": {
+    "markets": 2021,
+    "relationships": 44291,
+    "within_event": 18973,
+    "negrisk": 15460,
+    "subset": 131,
+    "entity": 9727,
+    "single_condition_opps": 0,
+    "combinatorial_opps": 146
+  },
+  "top_relationships": [
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will New Zealand win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Switzerland win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will England win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will France win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will South Korea win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Haiti win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Brazil win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Jordan win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Cura\u00e7ao win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Argentina win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Germany win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Colombia win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Iran win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Portugal win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Ghana win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Netherlands win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Algeria win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Italy win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will USA win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Canada win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Uruguay win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Mexico win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Paraguay win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Scotland win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Japan win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Norway win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Tunisia win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Ecuador win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Uzbekistan win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Morocco win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will South Africa win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Senegal win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Ivory Coast win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Cape Verde win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Qatar win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Austria win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Belgium win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Australia win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Saudi Arabia win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Croatia win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Spain win the 2026 FIFA World Cup?",
+      "b": "Will Egypt win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Switzerland win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will England win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will France win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will South Korea win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Haiti win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Brazil win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Jordan win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Cura\u00e7ao win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Argentina win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Germany win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Colombia win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Iran win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Portugal win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Ghana win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Netherlands win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Algeria win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Italy win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will USA win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Canada win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Uruguay win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Mexico win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Paraguay win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Scotland win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Japan win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Norway win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Tunisia win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Ecuador win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Uzbekistan win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Morocco win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will South Africa win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Senegal win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Ivory Coast win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Cape Verde win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Qatar win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Austria win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Belgium win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Australia win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Saudi Arabia win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Croatia win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will New Zealand win the 2026 FIFA World Cup?",
+      "b": "Will Egypt win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Switzerland win the 2026 FIFA World Cup?",
+      "b": "Will England win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Switzerland win the 2026 FIFA World Cup?",
+      "b": "Will France win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Switzerland win the 2026 FIFA World Cup?",
+      "b": "Will South Korea win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Switzerland win the 2026 FIFA World Cup?",
+      "b": "Will Haiti win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Switzerland win the 2026 FIFA World Cup?",
+      "b": "Will Brazil win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Switzerland win the 2026 FIFA World Cup?",
+      "b": "Will Jordan win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Switzerland win the 2026 FIFA World Cup?",
+      "b": "Will Cura\u00e7ao win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Switzerland win the 2026 FIFA World Cup?",
+      "b": "Will Argentina win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Switzerland win the 2026 FIFA World Cup?",
+      "b": "Will Germany win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Switzerland win the 2026 FIFA World Cup?",
+      "b": "Will Colombia win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Switzerland win the 2026 FIFA World Cup?",
+      "b": "Will Iran win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Switzerland win the 2026 FIFA World Cup?",
+      "b": "Will Portugal win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Switzerland win the 2026 FIFA World Cup?",
+      "b": "Will Ghana win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Switzerland win the 2026 FIFA World Cup?",
+      "b": "Will Netherlands win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Switzerland win the 2026 FIFA World Cup?",
+      "b": "Will Algeria win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Switzerland win the 2026 FIFA World Cup?",
+      "b": "Will Italy win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Switzerland win the 2026 FIFA World Cup?",
+      "b": "Will USA win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Switzerland win the 2026 FIFA World Cup?",
+      "b": "Will Canada win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    },
+    {
+      "kind": "negrisk",
+      "a": "Will Switzerland win the 2026 FIFA World Cup?",
+      "b": "Will Uruguay win the 2026 FIFA World Cup?",
+      "confidence": 1.0,
+      "detail": "NegRisk event: 2026 FIFA World Cup Winner "
+    }
+  ],
+  "arbitrage": [
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the highest temperature in Miami be between 82-83\u00b0F on March 29?",
+        "Will the highest temperature in Dallas be between 82-83\u00b0F on March 29?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0005,
+          "token_id": "33988497244745065595604960612839185730068940968170221788470370199201934644048"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.0004999999999999449,
+          "token_id": "89225930522695882919098367430475374940064750561267363459916750622957789993080"
+        }
+      ],
+      "cost": 0.000999999999999945,
+      "profit": 0.9990000000000001,
+      "roi_pct": 99900.00000000552
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the highest temperature in New York City be between 62-63\u00b0F on March 29?",
+        "Will the highest temperature in Chicago be between 62-63\u00b0F on March 29?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0005,
+          "token_id": "79341135188259187440007924983955064258117920424422228947357455661392404927486"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.0004999999999999449,
+          "token_id": "30458791412688528361587693793400255808563468133058231967112222645890020896374"
+        }
+      ],
+      "cost": 0.000999999999999945,
+      "profit": 0.9990000000000001,
+      "roi_pct": 99900.00000000552
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the highest temperature in New York City be between 64-65\u00b0F on March 29?",
+        "Will the highest temperature in Atlanta be between 64-65\u00b0F on March 29?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0005,
+          "token_id": "23473252462173904887837248183128863427506233949388353444586145989768974472767"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.0004999999999999449,
+          "token_id": "2645209660881012035936740575282403722876537731052811507663988547600270304751"
+        }
+      ],
+      "cost": 0.000999999999999945,
+      "profit": 0.9990000000000001,
+      "roi_pct": 99900.00000000552
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the highest temperature in Chicago be between 64-65\u00b0F on March 29?",
+        "Will the highest temperature in Atlanta be between 64-65\u00b0F on March 29?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0005,
+          "token_id": "56616393620214767850563131119048902830084569400796832514398342533166332317317"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.0004999999999999449,
+          "token_id": "2645209660881012035936740575282403722876537731052811507663988547600270304751"
+        }
+      ],
+      "cost": 0.000999999999999945,
+      "profit": 0.9990000000000001,
+      "roi_pct": 99900.00000000552
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the highest temperature in Atlanta be between 72-73\u00b0F on March 29?",
+        "Will the highest temperature in Los Angeles be between 72-73\u00b0F on March 29?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0005,
+          "token_id": "84075066679096013509732331402491385345247361987829869274695406731861954457628"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.0004999999999999449,
+          "token_id": "48881063161752679858635940589274673280694928305036466602881671880256012823733"
+        }
+      ],
+      "cost": 0.000999999999999945,
+      "profit": 0.9990000000000001,
+      "roi_pct": 99900.00000000552
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the highest temperature in Los Angeles be between 82-83\u00b0F on March 29?",
+        "Will the highest temperature in Dallas be between 82-83\u00b0F on March 29?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.001,
+          "token_id": "52943971079828233114441991355631072192187575084854576956587518810306195228239"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.0004999999999999449,
+          "token_id": "89225930522695882919098367430475374940064750561267363459916750622957789993080"
+        }
+      ],
+      "cost": 0.001499999999999945,
+      "profit": 0.9985,
+      "roi_pct": 66566.66666666912
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the highest temperature in Miami be between 84-85\u00b0F on March 29?",
+        "Will the highest temperature in Austin be between 84-85\u00b0F on March 29?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0005,
+          "token_id": "38160969820887771143325535212410712940123400141388889210124643817200113805257"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.0010000000000000009,
+          "token_id": "90530874260201647297782472787352731847121944001488908134734957061143747632463"
+        }
+      ],
+      "cost": 0.001500000000000001,
+      "profit": 0.9985,
+      "roi_pct": 66566.66666666663
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the highest temperature in Denver be between 82-83\u00b0F on March 29?",
+        "Will the highest temperature in Dallas be between 82-83\u00b0F on March 29?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0015,
+          "token_id": "73333537421614466168982756416878078755832927388129810983172059911632159036093"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.0004999999999999449,
+          "token_id": "89225930522695882919098367430475374940064750561267363459916750622957789993080"
+        }
+      ],
+      "cost": 0.001999999999999945,
+      "profit": 0.9980000000000001,
+      "roi_pct": 49900.00000000138
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Apple be the largest company in the world by market cap on March 31?",
+        "Will Apple be the second-largest company in the world by market cap on March 31?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0015,
+          "token_id": "69677952171510789450548018200554880679955967756620236507781291366446068627873"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.008499999999999952,
+          "token_id": "15882137628174044073040836435500119360949172129004960610654037216973705176255"
+        }
+      ],
+      "cost": 0.009999999999999952,
+      "profit": 0.9900000000000001,
+      "roi_pct": 9900.00000000005
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the highest temperature in Shanghai be 20\u00b0C on March 30?",
+        "Will the highest temperature in Tokyo be 20\u00b0C on March 30?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0005,
+          "token_id": "52167247208669130482824860047132177095522664056983271704771923631393843380035"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.024499999999999966,
+          "token_id": "39754690216568507216140294548066280921876718098462197448395211690607613256260"
+        }
+      ],
+      "cost": 0.024999999999999967,
+      "profit": 0.9750000000000001,
+      "roi_pct": 3900.0000000000055
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the highest temperature in Seoul be 20\u00b0C or higher on March 30?",
+        "Will the highest temperature in Tokyo be 20\u00b0C on March 30?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0125,
+          "token_id": "46794647593711526100606252137307374226893067969612147526471318293700549941224"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.024499999999999966,
+          "token_id": "39754690216568507216140294548066280921876718098462197448395211690607613256260"
+        }
+      ],
+      "cost": 0.036999999999999963,
+      "profit": 0.9630000000000001,
+      "roi_pct": 2602.7027027027057
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will SpaceX's market cap be less than $1.0T at market close on IPO day?",
+        "Will SpaceX's market cap be greater than $1T at market close on IPO day?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.021,
+          "token_id": "111420057784452219026503866138413641670082826478514143867504780300842657093894"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.06499999999999995,
+          "token_id": "77118743744423030076777825975367934930611695303733536309916197078605310912410"
+        }
+      ],
+      "cost": 0.08599999999999995,
+      "profit": 0.914,
+      "roi_pct": 1062.7906976744193
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will SpaceX IPO by December 31, 2026?",
+        "Will SpaceX IPO by April 30, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0465,
+          "token_id": "102364352748648680897331780665406364768439160047244231764689805454000083658532"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.07499999999999996,
+          "token_id": "3779248779209045573361002111888607171668962518903298092676132088558158904613"
+        }
+      ],
+      "cost": 0.12149999999999996,
+      "profit": 0.8785000000000001,
+      "roi_pct": 723.0452674897123
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will SpaceX IPO by September 30, 2026?",
+        "Will SpaceX IPO by April 30, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0465,
+          "token_id": "102364352748648680897331780665406364768439160047244231764689805454000083658532"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.125,
+          "token_id": "5432096834011948598310990502011085898762751096723880309547785646893078400969"
+        }
+      ],
+      "cost": 0.17149999999999999,
+      "profit": 0.8285,
+      "roi_pct": 483.0903790087464
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Trump visit China by June 30?",
+        "Will Trump visit China by April 30?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0265,
+          "token_id": "44446804496889907209027787393532554522900719536131325061789855807185516080089"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.16500000000000004,
+          "token_id": "22867679359328041307036010075086444013781601266173545655945367675586188506678"
+        }
+      ],
+      "cost": 0.19150000000000003,
+      "profit": 0.8085,
+      "roi_pct": 422.1932114882506
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will SpaceX IPO by December 31, 2026?",
+        "Will SpaceX IPO by May 31, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.1965,
+          "token_id": "29667613270153581492906473327500418658854514234129382180586514287137320863079"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.07499999999999996,
+          "token_id": "3779248779209045573361002111888607171668962518903298092676132088558158904613"
+        }
+      ],
+      "cost": 0.27149999999999996,
+      "profit": 0.7285,
+      "roi_pct": 268.32412523020264
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Trump visit China by May 31?",
+        "Will Trump visit China by April 30?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0265,
+          "token_id": "44446804496889907209027787393532554522900719536131325061789855807185516080089"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.25,
+          "token_id": "93039777634964888056094358760934471653366558776013103218493141116582260206427"
+        }
+      ],
+      "cost": 0.2765,
+      "profit": 0.7235,
+      "roi_pct": 261.6636528028933
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will SpaceX IPO by September 30, 2026?",
+        "Will SpaceX IPO by May 31, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.1965,
+          "token_id": "29667613270153581492906473327500418658854514234129382180586514287137320863079"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.125,
+          "token_id": "5432096834011948598310990502011085898762751096723880309547785646893078400969"
+        }
+      ],
+      "cost": 0.3215,
+      "profit": 0.6785,
+      "roi_pct": 211.04199066874028
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Apple be the largest company in the world by market cap on April 30?",
+        "Will Apple be the second-largest company in the world by market cap on April 30?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0495,
+          "token_id": "81814664054388613258637708945628352431625557238897398078554347848509418132766"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.31499999999999995,
+          "token_id": "42908918706242823357028348032365109606951709992664794489487133063224884013660"
+        }
+      ],
+      "cost": 0.36449999999999994,
+      "profit": 0.6355000000000001,
+      "roi_pct": 174.3484224965707
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (HIGH) $110 by end of March?",
+        "Will Crude Oil (CL) hit (HIGH) $110 by end of June?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.141,
+          "token_id": "68339523648891823346525943170923809752656111307494446683897840426837639357923"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.22499999999999998,
+          "token_id": "51053524036682127500334964412829495306292087687160759427704815108439416233328"
+        }
+      ],
+      "cost": 0.366,
+      "profit": 0.634,
+      "roi_pct": 173.22404371584702
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will SpaceX IPO by June 30, 2026?",
+        "Will SpaceX IPO by April 30, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0465,
+          "token_id": "102364352748648680897331780665406364768439160047244231764689805454000083658532"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.35,
+          "token_id": "21068588913930638371021662618963330617941165157736662866454511889646043954553"
+        }
+      ],
+      "cost": 0.39649999999999996,
+      "profit": 0.6035,
+      "roi_pct": 152.20680958385879
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (HIGH) $120 by end of March?",
+        "Will Crude Oil (CL) hit (HIGH) $120 by end of June?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.018,
+          "token_id": "69136365945621600854789649488423522395843457249417452310260493085275775221076"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.38,
+          "token_id": "115244086768882877525516513397533392349337694963923162013382920248577349413134"
+        }
+      ],
+      "cost": 0.398,
+      "profit": 0.602,
+      "roi_pct": 151.25628140703515
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the price of Ethereum be above $2,100 on March 30?",
+        "Will the price of Ethereum be between $2,000 and $2,100 on March 30?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.1445,
+          "token_id": "96954268981261143670179644978963399107951554098036560181367866933629106304478"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.275,
+          "token_id": "73401890342924268682704945746840226056221729732376979182121987112563026795165"
+        }
+      ],
+      "cost": 0.4195,
+      "profit": 0.5805,
+      "roi_pct": 138.37902264600717
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (HIGH) $105 by end of March?",
+        "Will Crude Oil (CL) hit (HIGH) $105 by end of June?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.334,
+          "token_id": "34523777569717412486079829083221613352783431812341266998118815593138999201307"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.14,
+          "token_id": "39447579037160107105803080479528705827773393444324250245100289765086945386483"
+        }
+      ],
+      "cost": 0.47400000000000003,
+      "profit": 0.526,
+      "roi_pct": 110.9704641350211
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (LOW) $85 by end of March?",
+        "Will Crude Oil (CL) hit (LOW) $85 by end of June?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0185,
+          "token_id": "7381738902757190283627216961524466865524487196325458368290826061547296667054"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.49,
+          "token_id": "57403485817581019924596607564718291341249390537481011483780173483151720446487"
+        }
+      ],
+      "cost": 0.5085,
+      "profit": 0.49150000000000005,
+      "roi_pct": 96.65683382497544
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (LOW) $80 by end of March?",
+        "Will Crude Oil (CL) hit (LOW) $80 by end of June?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.01,
+          "token_id": "114929598274366971131336205799393924832857816779736104698632388348104809344836"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.505,
+          "token_id": "8133642162879591061142149607082961291280317429187740272807097458251379203682"
+        }
+      ],
+      "cost": 0.515,
+      "profit": 0.485,
+      "roi_pct": 94.17475728155338
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (HIGH) $130 by end of March?",
+        "Will Crude Oil (CL) hit (HIGH) $130 by end of June?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.012,
+          "token_id": "11493408506991053005001467740252564391469635719348506396067415301658723204334"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.525,
+          "token_id": "93293951791297295915516324120649497443763013674315025514024524625808762170146"
+        }
+      ],
+      "cost": 0.537,
+      "profit": 0.46299999999999997,
+      "roi_pct": 86.21973929236498
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will SpaceX IPO by June 30, 2026?",
+        "Will SpaceX IPO by May 31, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.1965,
+          "token_id": "29667613270153581492906473327500418658854514234129382180586514287137320863079"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.35,
+          "token_id": "21068588913930638371021662618963330617941165157736662866454511889646043954553"
+        }
+      ],
+      "cost": 0.5465,
+      "profit": 0.4535,
+      "roi_pct": 82.98261665141811
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Gensyn FDV above $400M one day after launch?",
+        "EdgeX FDV above $400M one day after launch?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.25,
+          "token_id": "5906729942132388187374842778427213872782907171873674796265663843960406830445"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.36,
+          "token_id": "71867583934325416449005988945843711163587447477639011600469670259759578475831"
+        }
+      ],
+      "cost": 0.61,
+      "profit": 0.39,
+      "roi_pct": 63.934426229508205
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (HIGH) $140 by end of March?",
+        "Will Crude Oil (CL) hit (HIGH) $140 by end of June?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0085,
+          "token_id": "65289621611637263612880103958239624078182899749769408653117893208730665036543"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.665,
+          "token_id": "110583250661466472861875163569965990016318900838968972325320726352898164686933"
+        }
+      ],
+      "cost": 0.6735,
+      "profit": 0.3265,
+      "roi_pct": 48.478099480326655
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the price of Bitcoin be above $70,000 on March 30?",
+        "Will the price of Bitcoin be between $68,000 and $70,000 on March 30?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.032,
+          "token_id": "38329702790574353921326882127320763634468493428870693174825178218848831541851"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.6699999999999999,
+          "token_id": "99634178480109676943700486373963930729978440400403882285253066488765256362146"
+        }
+      ],
+      "cost": 0.702,
+      "profit": 0.29800000000000004,
+      "roi_pct": 42.45014245014246
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Israel win Eurovision 2026?",
+        "Will Israel win the televote for Eurovision 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0385,
+          "token_id": "95405575911585769697099772472184152032778179663119942855636123308055234853243"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.6699999999999999,
+          "token_id": "178692203656807180365230960336295766066603169759894010839069390672225986945"
+        }
+      ],
+      "cost": 0.7084999999999999,
+      "profit": 0.2915000000000001,
+      "roi_pct": 41.143260409315474
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Russia x Ukraine ceasefire by March 31, 2026?",
+        "Russia x Ukraine ceasefire by end of 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0015,
+          "token_id": "24394670903706558879845790079760859552309100903651562795058188175118941818512"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.7150000000000001,
+          "token_id": "27911616648163853231017805596118911526202185567944724228908312975649746722206"
+        }
+      ],
+      "cost": 0.7165,
+      "profit": 0.2835,
+      "roi_pct": 39.56734124214933
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (LOW) $70 by end of March?",
+        "Will Crude Oil (CL) hit (LOW) $70 by end of June?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0045,
+          "token_id": "78654527857504593303465840591529745089668182153421857046687001020298321913143"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.7150000000000001,
+          "token_id": "93174471835483944807515757251824141630614346591791608954747393099566086522046"
+        }
+      ],
+      "cost": 0.7195,
+      "profit": 0.28049999999999997,
+      "roi_pct": 38.9854065323141
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 65-89 tweets from March 28 to March 30, 2026?",
+        "Will Elon Musk post 65-89 tweets from March 30 to April 1, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.105,
+          "token_id": "112341624044335085586597148767675519108044479371703924859522258783287776075475"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.625,
+          "token_id": "31968146343560911876473448381016215833569105528112329698056305045984165818503"
+        }
+      ],
+      "cost": 0.73,
+      "profit": 0.27,
+      "roi_pct": 36.986301369863014
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Hezbollah conduct military action against Israel on March 29, 2026?",
+        "Will Iran conduct a military action against Israel on March 27, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.715,
+          "token_id": "8715593662295850029772442397688239713628979296773006315772074557108179562964"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.023499999999999965,
+          "token_id": "15724908773144224083507133850237057449815641281532331519399284318375609514332"
+        }
+      ],
+      "cost": 0.7384999999999999,
+      "profit": 0.26150000000000007,
+      "roi_pct": 35.40961408259988
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (HIGH) $150 by end of March?",
+        "Will Crude Oil (CL) hit (HIGH) $150 by end of June?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.007,
+          "token_id": "72223647059482161321777035355535254168984102436017216383672365031077799535046"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.745,
+          "token_id": "32341687274788201899478881548952314427337883629625135260703748269761856076766"
+        }
+      ],
+      "cost": 0.752,
+      "profit": 0.248,
+      "roi_pct": 32.97872340425532
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Bitcoin Up or Down on March 30?",
+        "Bitcoin Up or Down - March 30, 12AM ET"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.775,
+          "token_id": "79622457587662854570252643495053342488707185295970816329564347420870369276321"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.0004999999999999449,
+          "token_id": "11401607787872487345266929058071289263780648841375494745776676550148899809826"
+        }
+      ],
+      "cost": 0.7755,
+      "profit": 0.22450000000000003,
+      "roi_pct": 28.94906511927789
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Hezbollah conduct military action against Israel on March 29, 2026?",
+        "Will Iran conduct a military action against Israel on March 31, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.715,
+          "token_id": "8715593662295850029772442397688239713628979296773006315772074557108179562964"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.10499999999999998,
+          "token_id": "108236539336374976012714697350618502151210581720545964716860494386260234751990"
+        }
+      ],
+      "cost": 0.82,
+      "profit": 0.18000000000000005,
+      "roi_pct": 21.95121951219513
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (HIGH) $100 by end of March?",
+        "Will Crude Oil (CL) hit (HIGH) $100 by end of June?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.698,
+          "token_id": "79605660806991457811890435537160628976099500543939220857753925926896831621219"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.123,
+          "token_id": "47629875462062804555055704944424061826845232238992378625539478146589721453842"
+        }
+      ],
+      "cost": 0.821,
+      "profit": 0.17900000000000005,
+      "roi_pct": 21.802679658952503
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Hezbollah conduct military action against Israel on March 29, 2026?",
+        "Will Iran conduct a military action against Israel on March 30, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.715,
+          "token_id": "8715593662295850029772442397688239713628979296773006315772074557108179562964"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.11499999999999999,
+          "token_id": "85528273570366870197006125890927090123393684572837178291061259412704786119950"
+        }
+      ],
+      "cost": 0.83,
+      "profit": 0.17000000000000004,
+      "roi_pct": 20.48192771084338
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (LOW) $60 by end of March?",
+        "Will Crude Oil (CL) hit (LOW) $60 by end of June?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0025,
+          "token_id": "41484391753768689986118304017238222622649602874466422125498447834247896312840"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.83,
+          "token_id": "28394261464380954566825718363015723662754732056957129621650179768497671340889"
+        }
+      ],
+      "cost": 0.8324999999999999,
+      "profit": 0.1675000000000001,
+      "roi_pct": 20.120120120120134
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Iran x Israel/US conflict ends by December 31?",
+        "Iran x Israel/US conflict ends by June 30?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.63,
+          "token_id": "23072428889948871919916997912866343746006774483855187447858489211364943872755"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.20499999999999996,
+          "token_id": "72672649490627178259809292941952979051200271014678303501403336114251236535062"
+        }
+      ],
+      "cost": 0.835,
+      "profit": 0.16500000000000004,
+      "roi_pct": 19.760479041916174
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Gensyn FDV above $600M one day after launch?",
+        "EdgeX FDV above $600M one day after launch?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.13,
+          "token_id": "101101625858935510994152869873088213062714890530116131353411379193297614599911"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.71,
+          "token_id": "110221195490996213964026322496808739630135964553228807180193733169797920939663"
+        }
+      ],
+      "cost": 0.84,
+      "profit": 0.16000000000000003,
+      "roi_pct": 19.04761904761905
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Alphabet be the largest company in the world by market cap on April 30?",
+        "Will Alphabet be the second-largest company in the world by market cap on April 30?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0155,
+          "token_id": "35476334326465815970000452306443163798502515644910531248025304272284077102809"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.83,
+          "token_id": "68722702353857814327060265276967376492112615400903692225510136513146455184955"
+        }
+      ],
+      "cost": 0.8454999999999999,
+      "profit": 0.15450000000000008,
+      "roi_pct": 18.273211117681857
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will there be between 10 and 20 average daily transits of the Strait of Hormuz on March 31?",
+        "Will there be between 10 and 20 average daily transits of the Strait of Hormuz on April 3?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0355,
+          "token_id": "108610807090201491315117708212934347496644405938300638022938873269089516169393"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.813,
+          "token_id": "103528317936622964598738305027334292256884733116606117967890757679010963057349"
+        }
+      ],
+      "cost": 0.8484999999999999,
+      "profit": 0.15150000000000008,
+      "roi_pct": 17.85503830288746
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "US escorts commercial ship through Hormuz by April 30?",
+        "US escorts commercial ship through Hormuz by April 15?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.185,
+          "token_id": "30791280934025047958914225503915607438491386367206602598648957813347539658202"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.6799999999999999,
+          "token_id": "48040978383503935282200437732940432868713878504371477146915673656590841115861"
+        }
+      ],
+      "cost": 0.865,
+      "profit": 0.135,
+      "roi_pct": 15.606936416184972
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (HIGH) $200 by end of March?",
+        "Will Crude Oil (CL) hit (HIGH) $200 by end of June?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0005,
+          "token_id": "87824966867258483785309865490733354946773137781572004984914312237346817778871"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.865,
+          "token_id": "45088423813979757293740549409967318647375825482445492568610910377081706618886"
+        }
+      ],
+      "cost": 0.8654999999999999,
+      "profit": 0.13450000000000006,
+      "roi_pct": 15.54015020219527
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Hezbollah conduct military action against Israel on March 30, 2026?",
+        "Will Iran conduct a military action against Israel on March 27, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.845,
+          "token_id": "78815438224369724581212594090667900291275875929516811888565439531502475648481"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.023499999999999965,
+          "token_id": "15724908773144224083507133850237057449815641281532331519399284318375609514332"
+        }
+      ],
+      "cost": 0.8684999999999999,
+      "profit": 0.13150000000000006,
+      "roi_pct": 15.14104778353484
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?",
+        "Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0045,
+          "token_id": "18690049947242812495755151360212639738977254879109748949267393375856311641700"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.865,
+          "token_id": "90713175285238837229141362456380660699457701142142655731293716395090014512187"
+        }
+      ],
+      "cost": 0.8694999999999999,
+      "profit": 0.13050000000000006,
+      "roi_pct": 15.008625646923527
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 90-114 tweets from March 28 to March 30, 2026?",
+        "Will Elon Musk post 90-114 tweets from March 30 to April 1, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0045,
+          "token_id": "25920370716363253773092898730823710734139107623899310243914632569367247250846"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.865,
+          "token_id": "2214377360215844672326181403121677112000619727325916335265386307873016807393"
+        }
+      ],
+      "cost": 0.8694999999999999,
+      "profit": 0.13050000000000006,
+      "roi_pct": 15.008625646923527
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the price of Ethereum be above $2,200 on March 30?",
+        "Will the price of Ethereum be between $2,100 and $2,200 on March 30?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0095,
+          "token_id": "77565045062329320389747068432856741374212825727347364910368797627033512876022"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.86,
+          "token_id": "53016280756352406543345514611130829884952249593921275339914098045131586291593"
+        }
+      ],
+      "cost": 0.8694999999999999,
+      "profit": 0.13050000000000006,
+      "roi_pct": 15.008625646923527
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the price of Bitcoin be above $68,000 on March 30?",
+        "Will the price of Bitcoin be between $66,000 and $68,000 on March 30?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.375,
+          "token_id": "53515826093545540131999150841813441507292684724290272288562716574462407795372"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.495,
+          "token_id": "13766101722259964036366235319356736465354215360837039822655400386415726618827"
+        }
+      ],
+      "cost": 0.87,
+      "profit": 0.13,
+      "roi_pct": 14.942528735632186
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting?",
+        "Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.009,
+          "token_id": "110884561568299698460551977852169332756450294345019257864587852438060900499251"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.865,
+          "token_id": "90713175285238837229141362456380660699457701142142655731293716395090014512187"
+        }
+      ],
+      "cost": 0.874,
+      "profit": 0.126,
+      "roi_pct": 14.416475972540047
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?",
+        "Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0105,
+          "token_id": "83479140651306794046790588004449066364152228067472874205697111967337978544729"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.865,
+          "token_id": "90713175285238837229141362456380660699457701142142655731293716395090014512187"
+        }
+      ],
+      "cost": 0.8755,
+      "profit": 0.12450000000000006,
+      "roi_pct": 14.220445459737299
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Iranian regime fall by April 30?",
+        "Will the Iranian regime fall by June 30?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.065,
+          "token_id": "48764428286656921488851644351774667118009263342042758531252625616470924946480"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.815,
+          "token_id": "95949957895141858444199258452803633110472396604599808168788254125381075552218"
+        }
+      ],
+      "cost": 0.8799999999999999,
+      "profit": 0.1200000000000001,
+      "roi_pct": 13.63636363636365
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Greece win Eurovision 2026?",
+        "Will Greece win the televote for Eurovision 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.066,
+          "token_id": "82294265279517788069388087838037305194656998172027244775425123449776048199682"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.815,
+          "token_id": "57589315674140366336818438032439708636669040013576915181901844528613154956417"
+        }
+      ],
+      "cost": 0.881,
+      "profit": 0.119,
+      "roi_pct": 13.507377979568671
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?",
+        "Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0185,
+          "token_id": "9556122149160720922715284597610520228366807023831966638741974320131898296289"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.865,
+          "token_id": "90713175285238837229141362456380660699457701142142655731293716395090014512187"
+        }
+      ],
+      "cost": 0.8835,
+      "profit": 0.11650000000000005,
+      "roi_pct": 13.186191284663277
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Hezbollah conduct military action against Israel on March 31, 2026?",
+        "Will Iran conduct a military action against Israel on March 27, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.86,
+          "token_id": "97765650407662607047986296995198823272865334121824578997037138709219541056873"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.023499999999999965,
+          "token_id": "15724908773144224083507133850237057449815641281532331519399284318375609514332"
+        }
+      ],
+      "cost": 0.8835,
+      "profit": 0.11650000000000005,
+      "roi_pct": 13.186191284663277
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+        "Will the Oklahoma City Thunder win the NBA Western Conference Finals?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.365,
+          "token_id": "49500299856831034491021962156746701298730459370557900271970866855042624695770"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.52,
+          "token_id": "99090575764168515106846034355559221659446459726226331415265571662541577404217"
+        }
+      ],
+      "cost": 0.885,
+      "profit": 0.11499999999999999,
+      "roi_pct": 12.994350282485875
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the price of Bitcoin be above $70,000 on March 30?",
+        "Will the price of Bitcoin be above $70,000 on March 31?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.032,
+          "token_id": "38329702790574353921326882127320763634468493428870693174825178218848831541851"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.855,
+          "token_id": "4909432057697803126500817150599652294445337109322097168538548417845295584365"
+        }
+      ],
+      "cost": 0.887,
+      "profit": 0.11299999999999999,
+      "roi_pct": 12.739571589627957
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 280-299 tweets from March 24 to March 31, 2026?",
+        "Will Elon Musk post 280-299 tweets from March 31 to April 7, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0145,
+          "token_id": "1563499547154762664681265142041302046456489559994033744572845891440270917813"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.875,
+          "token_id": "21369315037021788543924645147611861814045420976970148950564273735726462079868"
+        }
+      ],
+      "cost": 0.8895,
+      "profit": 0.11050000000000004,
+      "roi_pct": 12.422709387296239
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 320-339 tweets from March 24 to March 31, 2026?",
+        "Will Elon Musk post 320-339 tweets from March 31 to April 7, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0025,
+          "token_id": "4339442691817912534050186593046779322210436659649380079414540157310488565318"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.895,
+          "token_id": "101924318975180094297154092472934426039784201263658829660441459673705773544298"
+        }
+      ],
+      "cost": 0.8975,
+      "profit": 0.10250000000000004,
+      "roi_pct": 11.420612813370477
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "MicroStrategy sells any Bitcoin by December 31, 2026?",
+        "MicroStrategy sells any Bitcoin by June 30, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.031,
+          "token_id": "110251828161543119357013227499774714771527179764174739487025581227481937033858"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.87,
+          "token_id": "99807503632459517030616292055983105381849115736225256331133222076990620978808"
+        }
+      ],
+      "cost": 0.901,
+      "profit": 0.09899999999999998,
+      "roi_pct": 10.987791342952272
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 300-319 tweets from March 24 to March 31, 2026?",
+        "Will Elon Musk post 300-319 tweets from March 31 to April 7, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0065,
+          "token_id": "56993849857711049526787092470506251569156302616153798237124886795444472393415"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.895,
+          "token_id": "93986589798262321152662485455249906278437524309271953507811394968568837849127"
+        }
+      ],
+      "cost": 0.9015,
+      "profit": 0.09850000000000003,
+      "roi_pct": 10.92623405435386
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran conduct a military action against Israel on March 31, 2026?",
+        "Military action against Iran continues through March 31, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.895,
+          "token_id": "88347196507844890727941396804337582411920989850841780247441414470889030250339"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.009000000000000008,
+          "token_id": "27040294992035591963997512090547410933796078166803169197205456299936506956431"
+        }
+      ],
+      "cost": 0.904,
+      "profit": 0.09599999999999997,
+      "roi_pct": 10.61946902654867
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Bitcoin Up or Down on March 30?",
+        "Ethereum Up or Down on March 30?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.775,
+          "token_id": "79622457587662854570252643495053342488707185295970816329564347420870369276321"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.135,
+          "token_id": "85207576791132241963849116191030307646995327106882325459844133155529040666070"
+        }
+      ],
+      "cost": 0.91,
+      "profit": 0.08999999999999997,
+      "roi_pct": 9.890109890109887
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (LOW) $55 by end of March?",
+        "Will Crude Oil (CL) hit (LOW) $55 by end of June?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0005,
+          "token_id": "97368724766946872176919849861273439062823796893783044140087718003762678760335"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.91,
+          "token_id": "96085464206285618003620752846274000423852189375415424462894358480297605305255"
+        }
+      ],
+      "cost": 0.9105,
+      "profit": 0.08950000000000002,
+      "roi_pct": 9.829763866007692
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 260-279 tweets from March 24 to March 31, 2026?",
+        "Will Elon Musk post 260-279 tweets from March 31 to April 7, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.048,
+          "token_id": "101378485709201136249397486033097096317288849734571091176451052528443654769410"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.865,
+          "token_id": "10687622452254263666806985267958640801264291385225404328443678527770159241697"
+        }
+      ],
+      "cost": 0.913,
+      "profit": 0.08699999999999997,
+      "roi_pct": 9.52902519167579
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 340-359 tweets from March 24 to March 31, 2026?",
+        "Will Elon Musk post 340-359 tweets from March 31 to April 7, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0005,
+          "token_id": "62224595564183394038458606364365763115011329743794018680386376456259963347261"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.915,
+          "token_id": "7142124488954608721284620242726674647263856745130794540940264908960243294539"
+        }
+      ],
+      "cost": 0.9155,
+      "profit": 0.08450000000000002,
+      "roi_pct": 9.229929000546152
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Gensyn FDV above $2B one day after launch?",
+        "StandX FDV above $2B one day after launch?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.007,
+          "token_id": "46057109305799573881877254568202947172762955264230813710598018521328490057343"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.913,
+          "token_id": "70022541992120536775187637479128313929126330883371579437223345309025930694214"
+        }
+      ],
+      "cost": 0.92,
+      "profit": 0.07999999999999996,
+      "roi_pct": 8.69565217391304
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "EdgeX FDV above $2B one day after launch?",
+        "StandX FDV above $2B one day after launch?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0105,
+          "token_id": "81745743771163751658961878056570878441270174965169545958038445492733099896692"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.913,
+          "token_id": "70022541992120536775187637479128313929126330883371579437223345309025930694214"
+        }
+      ],
+      "cost": 0.9235,
+      "profit": 0.07650000000000001,
+      "roi_pct": 8.283703302652953
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed increase interest rates by 25 bps after the June 2026 meeting?",
+        "Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.06,
+          "token_id": "54688507565884542490190759171719899637342914252863057837926715255559077706253"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.865,
+          "token_id": "90713175285238837229141362456380660699457701142142655731293716395090014512187"
+        }
+      ],
+      "cost": 0.925,
+      "profit": 0.07499999999999996,
+      "roi_pct": 8.108108108108103
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?",
+        "Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.065,
+          "token_id": "65193234666628291664907888364936366210889305490897648116746073820519263548476"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.865,
+          "token_id": "90713175285238837229141362456380660699457701142142655731293716395090014512187"
+        }
+      ],
+      "cost": 0.9299999999999999,
+      "profit": 0.07000000000000006,
+      "roi_pct": 7.526881720430115
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post <40 tweets from March 28 to March 30, 2026?",
+        "Will Elon Musk post <40 tweets from March 30 to April 1, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.023,
+          "token_id": "83654009901488891344593031901882929686645965018443985113078905168410980534007"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.9105,
+          "token_id": "35816233914829060596603925745035792689148223692675590258667986019778211026945"
+        }
+      ],
+      "cost": 0.9335,
+      "profit": 0.0665,
+      "roi_pct": 7.12372790573112
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?",
+        "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0105,
+          "token_id": "83479140651306794046790588004449066364152228067472874205697111967337978544729"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.927,
+          "token_id": "102979714187432523726496609637889951679226430871494531752837414533106422105296"
+        }
+      ],
+      "cost": 0.9375,
+      "profit": 0.0625,
+      "roi_pct": 6.666666666666667
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed increase interest rates by 50+ bps after the June 2026 meeting?",
+        "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0105,
+          "token_id": "11019686559003253359318459636510036787281809199165975947920974072245914352862"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.927,
+          "token_id": "102979714187432523726496609637889951679226430871494531752837414533106422105296"
+        }
+      ],
+      "cost": 0.9375,
+      "profit": 0.0625,
+      "roi_pct": 6.666666666666667
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 320-339 tweets from March 27 to April 3, 2026?",
+        "Will Elon Musk post 320-339 tweets from March 31 to April 7, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.043,
+          "token_id": "64984823937594605456648763050736384355607323028391425802667952391766515330896"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.895,
+          "token_id": "101924318975180094297154092472934426039784201263658829660441459673705773544298"
+        }
+      ],
+      "cost": 0.9380000000000001,
+      "profit": 0.061999999999999944,
+      "roi_pct": 6.609808102345409
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the San Antonio Spurs win the 2026 NBA Finals?",
+        "Will the San Antonio Spurs win the NBA Western Conference Finals?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.1725,
+          "token_id": "102227184035967850089766981958743064457339118173548431660886438726896222843254"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.766,
+          "token_id": "27815004243594045632881165458415700890962215209489505987194656563693307762869"
+        }
+      ],
+      "cost": 0.9385,
+      "profit": 0.0615,
+      "roi_pct": 6.553010122535961
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 340-359 tweets from March 27 to April 3, 2026?",
+        "Will Elon Musk post 340-359 tweets from March 31 to April 7, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0245,
+          "token_id": "3268314786824303640538111010753271994727289676422921260172458813921341863980"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.915,
+          "token_id": "7142124488954608721284620242726674647263856745130794540940264908960243294539"
+        }
+      ],
+      "cost": 0.9395,
+      "profit": 0.0605,
+      "roi_pct": 6.439595529536987
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?",
+        "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0045,
+          "token_id": "18690049947242812495755151360212639738977254879109748949267393375856311641700"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.935,
+          "token_id": "28290293140018107764072370767749010110409017615323596573647425138985988593200"
+        }
+      ],
+      "cost": 0.9395,
+      "profit": 0.0605,
+      "roi_pct": 6.439595529536987
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Gensyn FDV above $800M one day after launch?",
+        "StandX FDV above $800M one day after launch?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.08,
+          "token_id": "40255612412335227396631254417809181471209084100749547920842166691872144744490"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.86,
+          "token_id": "8373113479316390957622467208139928596567470033682060455246952917636419713613"
+        }
+      ],
+      "cost": 0.94,
+      "profit": 0.06000000000000005,
+      "roi_pct": 6.382978723404261
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (LOW) $50 by end of March?",
+        "Will Crude Oil (CL) hit (LOW) $50 by end of June?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.001,
+          "token_id": "88725747390003033280497245095829910513213277952046680859057435639424654328883"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.94,
+          "token_id": "49852043640960884534369462076453086320776884774781775475286061859194444463640"
+        }
+      ],
+      "cost": 0.941,
+      "profit": 0.05900000000000005,
+      "roi_pct": 6.269925611052078
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Gensyn FDV above $1B one day after launch?",
+        "StandX FDV above $1B one day after launch?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.048,
+          "token_id": "64138644673486392896601522208663411538791971638384450188578511638214297352642"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.895,
+          "token_id": "36803937831442870350292738395325650410988533856055834063276962702106239107852"
+        }
+      ],
+      "cost": 0.9430000000000001,
+      "profit": 0.05699999999999994,
+      "roi_pct": 6.044538706256621
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?",
+        "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0105,
+          "token_id": "83479140651306794046790588004449066364152228067472874205697111967337978544729"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.935,
+          "token_id": "28290293140018107764072370767749010110409017615323596573647425138985988593200"
+        }
+      ],
+      "cost": 0.9455,
+      "profit": 0.05449999999999999,
+      "roi_pct": 5.764145954521417
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?",
+        "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0185,
+          "token_id": "9556122149160720922715284597610520228366807023831966638741974320131898296289"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.927,
+          "token_id": "102979714187432523726496609637889951679226430871494531752837414533106422105296"
+        }
+      ],
+      "cost": 0.9455,
+      "profit": 0.05449999999999999,
+      "roi_pct": 5.764145954521417
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the price of Bitcoin be above $68,000 on March 30?",
+        "Will the price of Bitcoin be above $68,000 on March 31?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.375,
+          "token_id": "53515826093545540131999150841813441507292684724290272288562716574462407795372"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.575,
+          "token_id": "97619125263814283313718677473786829195437140934997474859231745169769549757662"
+        }
+      ],
+      "cost": 0.95,
+      "profit": 0.050000000000000044,
+      "roi_pct": 5.263157894736848
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Hezbollah conduct military action against Israel on March 30, 2026?",
+        "Will Iran conduct a military action against Israel on March 31, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.845,
+          "token_id": "78815438224369724581212594090667900291275875929516811888565439531502475648481"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.10499999999999998,
+          "token_id": "108236539336374976012714697350618502151210581720545964716860494386260234751990"
+        }
+      ],
+      "cost": 0.95,
+      "profit": 0.050000000000000044,
+      "roi_pct": 5.263157894736848
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?",
+        "Will the Fed increase interest rates by 25 bps after the June 2026 meeting?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0105,
+          "token_id": "83479140651306794046790588004449066364152228067472874205697111967337978544729"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.94,
+          "token_id": "11860607772349332991076953711276491732463246158502547301609855788223626456599"
+        }
+      ],
+      "cost": 0.9504999999999999,
+      "profit": 0.0495000000000001,
+      "roi_pct": 5.207785376117844
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will XRP dip to $1.20 March 23-29?",
+        "Will XRP dip to $1.20 in March?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0005,
+          "token_id": "9912271890969416229161692395150959835846806289615719651471364978229967318561"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.95,
+          "token_id": "48779613502807205502639930466587902697328617760131828170999781337229452540677"
+        }
+      ],
+      "cost": 0.9504999999999999,
+      "profit": 0.0495000000000001,
+      "roi_pct": 5.207785376117844
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 115-139 tweets from March 28 to March 30, 2026?",
+        "Will Elon Musk post 115-139 tweets from March 30 to April 1, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0015,
+          "token_id": "94357998975838689041743757319851651229661031857074719482547884054324822999611"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.95,
+          "token_id": "34313394833759734122949636049574745872000074280787744157430605447363215915704"
+        }
+      ],
+      "cost": 0.9514999999999999,
+      "profit": 0.0485000000000001,
+      "roi_pct": 5.09721492380453
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the highest temperature in Shenzhen be 27\u00b0C on March 30?",
+        "Will the highest temperature in Hong Kong be 27\u00b0C on March 30?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.915,
+          "token_id": "9421926825594913271164239691403652180421956804893042792962574470497166930832"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.03649999999999998,
+          "token_id": "71743345754871863097514917752859459812927033393422598425482120875162870041548"
+        }
+      ],
+      "cost": 0.9515,
+      "profit": 0.04849999999999999,
+      "roi_pct": 5.0972149238045175
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?",
+        "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0185,
+          "token_id": "9556122149160720922715284597610520228366807023831966638741974320131898296289"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.935,
+          "token_id": "28290293140018107764072370767749010110409017615323596573647425138985988593200"
+        }
+      ],
+      "cost": 0.9535,
+      "profit": 0.046499999999999986,
+      "roi_pct": 4.876769795490297
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 360-379 tweets from March 24 to March 31, 2026?",
+        "Will Elon Musk post 360-379 tweets from March 31 to April 7, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0005,
+          "token_id": "20534002965948081098281663947621979088700670161814894783877748960081525214116"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.955,
+          "token_id": "68158028300719158748206324461929508759046701156695457678150855803385269817742"
+        }
+      ],
+      "cost": 0.9554999999999999,
+      "profit": 0.044500000000000095,
+      "roi_pct": 4.657247514390382
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?",
+        "Will the Fed increase interest rates by 25 bps after the June 2026 meeting?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0185,
+          "token_id": "9556122149160720922715284597610520228366807023831966638741974320131898296289"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.94,
+          "token_id": "11860607772349332991076953711276491732463246158502547301609855788223626456599"
+        }
+      ],
+      "cost": 0.9584999999999999,
+      "profit": 0.04150000000000009,
+      "roi_pct": 4.329681794470537
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "EdgeX FDV above $3B one day after launch?",
+        "StandX FDV above $3B one day after launch?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.003,
+          "token_id": "90385603020926001707360097100094410102447822799797300242020806188948086799484"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.9565,
+          "token_id": "101328993232699978160973014215836518343614430937384550974567536142114439913022"
+        }
+      ],
+      "cost": 0.9595,
+      "profit": 0.04049999999999998,
+      "roi_pct": 4.220948410630535
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 300-319 tweets from March 27 to April 3, 2026?",
+        "Will Elon Musk post 300-319 tweets from March 31 to April 7, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.065,
+          "token_id": "52729110077380132137616129336648531472319797355251944243814653037828832263058"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.895,
+          "token_id": "93986589798262321152662485455249906278437524309271953507811394968568837849127"
+        }
+      ],
+      "cost": 0.96,
+      "profit": 0.040000000000000036,
+      "roi_pct": 4.1666666666666705
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Hezbollah conduct military action against Israel on March 30, 2026?",
+        "Will Iran conduct a military action against Israel on March 30, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.845,
+          "token_id": "78815438224369724581212594090667900291275875929516811888565439531502475648481"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.11499999999999999,
+          "token_id": "85528273570366870197006125890927090123393684572837178291061259412704786119950"
+        }
+      ],
+      "cost": 0.96,
+      "profit": 0.040000000000000036,
+      "roi_pct": 4.1666666666666705
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (LOW) $40 by end of March?",
+        "Will Crude Oil (CL) hit (LOW) $40 by end of June?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0005,
+          "token_id": "32159424845273147855322596215645645510908348349971358314821223873633091850771"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.9605,
+          "token_id": "22678574326626790109478157900846344967644092670323157536479355008155898252904"
+        }
+      ],
+      "cost": 0.961,
+      "profit": 0.039000000000000035,
+      "roi_pct": 4.058272632674301
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (LOW) $45 by end of March?",
+        "Will Crude Oil (CL) hit (LOW) $45 by end of June?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0005,
+          "token_id": "21770322911037369986396683925976262680404956098329601703533555178578883894668"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.9625,
+          "token_id": "49137861296428190970419048226418356845131858759780185161582070613096737948773"
+        }
+      ],
+      "cost": 0.963,
+      "profit": 0.03700000000000003,
+      "roi_pct": 3.842159916926276
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Google have the best AI model at the end of March 2026?",
+        "Will Google have the best AI model at the end of April 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0015,
+          "token_id": "107368907668133809834392077107493873962272133771051077472071669782290014419894"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.9625,
+          "token_id": "37158037760862237158315983561743155818179448788878107323051941865974333305818"
+        }
+      ],
+      "cost": 0.964,
+      "profit": 0.03600000000000003,
+      "roi_pct": 3.7344398340249
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 380-399 tweets from March 24 to March 31, 2026?",
+        "Will Elon Musk post 380-399 tweets from March 31 to April 7, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0005,
+          "token_id": "30212399287129696496638016986115584104971117077661607331904437499183921714854"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.9645,
+          "token_id": "89098963776591604957718011435997720160094324364811036529881692736540042153530"
+        }
+      ],
+      "cost": 0.965,
+      "profit": 0.03500000000000003,
+      "roi_pct": 3.6269430051813503
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Hezbollah conduct military action against Israel on March 31, 2026?",
+        "Will Iran conduct a military action against Israel on March 31, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.86,
+          "token_id": "97765650407662607047986296995198823272865334121824578997037138709219541056873"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.10499999999999998,
+          "token_id": "108236539336374976012714697350618502151210581720545964716860494386260234751990"
+        }
+      ],
+      "cost": 0.965,
+      "profit": 0.03500000000000003,
+      "roi_pct": 3.6269430051813503
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Spain by March 31?",
+        "Will Qatar strike Iran by March 31?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0015,
+          "token_id": "104683413885067808975222906079855819021107805627832505411146946881546162086162"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.968,
+          "token_id": "624805853743069021770497200644159037049111141216581424603124357722002489342"
+        }
+      ],
+      "cost": 0.9694999999999999,
+      "profit": 0.030500000000000083,
+      "roi_pct": 3.1459515214027935
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 400-419 tweets from March 24 to March 31, 2026?",
+        "Will Elon Musk post 400-419 tweets from March 31 to April 7, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0005,
+          "token_id": "2221853622507797600902061824016974898748944523598358006685970335910481290902"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.9695,
+          "token_id": "55051860341674604079277409511182089428018839798763280246314954768805061972519"
+        }
+      ],
+      "cost": 0.97,
+      "profit": 0.030000000000000027,
+      "roi_pct": 3.092783505154642
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "EdgeX FDV above $1B one day after launch?",
+        "StandX FDV above $1B one day after launch?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.075,
+          "token_id": "57572277528781440709849260888499365707002750997326123260697174694336034045593"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.895,
+          "token_id": "36803937831442870350292738395325650410988533856055834063276962702106239107852"
+        }
+      ],
+      "cost": 0.97,
+      "profit": 0.030000000000000027,
+      "roi_pct": 3.092783505154642
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Houthi strike on Israel by March 31, 2026?",
+        "Israel strike on Yemen by March 31, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.131,
+          "token_id": "88407066201517575590591179992229076575792048862744832845912319046567381272854"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.84,
+          "token_id": "97544778948514783507822893911631065215430896246986657936055930709632699777625"
+        }
+      ],
+      "cost": 0.971,
+      "profit": 0.029000000000000026,
+      "roi_pct": 2.9866117404737413
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Poland by March 31?",
+        "Will Qatar strike Iran by March 31?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0035,
+          "token_id": "70260696878766531015363893788652256044388380106161743455545513947529672264861"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.968,
+          "token_id": "624805853743069021770497200644159037049111141216581424603124357722002489342"
+        }
+      ],
+      "cost": 0.9714999999999999,
+      "profit": 0.02850000000000008,
+      "roi_pct": 2.9336078229542033
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Gensyn FDV above $1B one day after launch?",
+        "EdgeX FDV above $1B one day after launch?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.048,
+          "token_id": "64138644673486392896601522208663411538791971638384450188578511638214297352642"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.925,
+          "token_id": "56957120444915187104180039358928655665170856936378886389046743531659382644066"
+        }
+      ],
+      "cost": 0.9730000000000001,
+      "profit": 0.026999999999999913,
+      "roi_pct": 2.774922918807802
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 360-379 tweets from March 27 to April 3, 2026?",
+        "Will Elon Musk post 360-379 tweets from March 31 to April 7, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.019,
+          "token_id": "14084431205067255481630875547884755818609884351972285546792483014139078761746"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.955,
+          "token_id": "68158028300719158748206324461929508759046701156695457678150855803385269817742"
+        }
+      ],
+      "cost": 0.974,
+      "profit": 0.026000000000000023,
+      "roi_pct": 2.6694045174538013
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the price of Bitcoin be above $72,000 on March 30?",
+        "Will the price of Bitcoin be above $72,000 on March 31?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0045,
+          "token_id": "67141029188603214200138115551265133876741527386140238855008979095040592591234"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.9695,
+          "token_id": "64905153137790251750826780630890168710551297520755894505673030127258454564990"
+        }
+      ],
+      "cost": 0.974,
+      "profit": 0.026000000000000023,
+      "roi_pct": 2.6694045174538013
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Germany by March 31?",
+        "Will Qatar strike Iran by March 31?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.006,
+          "token_id": "91081992195665195772430291703913960940051747275859758586526277601689684535080"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.968,
+          "token_id": "624805853743069021770497200644159037049111141216581424603124357722002489342"
+        }
+      ],
+      "cost": 0.974,
+      "profit": 0.026000000000000023,
+      "roi_pct": 2.6694045174538013
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Moldova win Eurovision 2026?",
+        "Will Moldova win the televote for Eurovision 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.008,
+          "token_id": "90679405977970156943195728509973139582436074986479018224924933085652053473882"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.9665,
+          "token_id": "105617282258039824999213901903566303374072784912104129091544242133364056333202"
+        }
+      ],
+      "cost": 0.9745,
+      "profit": 0.025499999999999967,
+      "roi_pct": 2.6167265264238035
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Denver Nuggets win the 2026 NBA Finals?",
+        "Will the Denver Nuggets win the NBA Western Conference Finals?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.085,
+          "token_id": "56814725870179920615881424393027028330166672775619196396436430486653645555698"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.89,
+          "token_id": "43170275142221009353422030887889021736789320266319713573275959458622816906336"
+        }
+      ],
+      "cost": 0.975,
+      "profit": 0.025000000000000022,
+      "roi_pct": 2.5641025641025665
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Hezbollah conduct military action against Israel on March 31, 2026?",
+        "Will Iran conduct a military action against Israel on March 30, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.86,
+          "token_id": "97765650407662607047986296995198823272865334121824578997037138709219541056873"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.11499999999999999,
+          "token_id": "85528273570366870197006125890927090123393684572837178291061259412704786119950"
+        }
+      ],
+      "cost": 0.975,
+      "profit": 0.025000000000000022,
+      "roi_pct": 2.5641025641025665
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Spain by March 31?",
+        "Will UAE strike Iran by March 31?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0015,
+          "token_id": "104683413885067808975222906079855819021107805627832505411146946881546162086162"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.9735,
+          "token_id": "23576556728210778853266009911465819757701614236785446916768861380535248153071"
+        }
+      ],
+      "cost": 0.975,
+      "profit": 0.025000000000000022,
+      "roi_pct": 2.5641025641025665
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "EdgeX FDV above $5B one day after launch?",
+        "StandX FDV above $5B one day after launch?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0015,
+          "token_id": "85809965289177495327199784298713778216939022049473070869617547227798110560659"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.974,
+          "token_id": "51201102007020627960159012458123303603105193464572577585560543027879250247875"
+        }
+      ],
+      "cost": 0.9754999999999999,
+      "profit": 0.024500000000000077,
+      "roi_pct": 2.511532547411592
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the price of Bitcoin be above $72,000 on March 30?",
+        "Will the price of Bitcoin be between $70,000 and $72,000 on March 30?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0045,
+          "token_id": "67141029188603214200138115551265133876741527386140238855008979095040592591234"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.9715,
+          "token_id": "102552916312150702846536227963029269487327189383722446845939908762914756935092"
+        }
+      ],
+      "cost": 0.976,
+      "profit": 0.02400000000000002,
+      "roi_pct": 2.4590163934426252
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Los Angeles Lakers win the 2026 NBA Finals?",
+        "Will the Los Angeles Lakers win the NBA Western Conference Finals?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0405,
+          "token_id": "86297520870744792204751483474339201341298076835836561764334428915355504860913"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.9359999999999999,
+          "token_id": "54786552848980376352720377975332354854555349922329613372499911889470511416772"
+        }
+      ],
+      "cost": 0.9764999999999999,
+      "profit": 0.023500000000000076,
+      "roi_pct": 2.406554019457253
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Poland by March 31?",
+        "Will UAE strike Iran by March 31?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0035,
+          "token_id": "70260696878766531015363893788652256044388380106161743455545513947529672264861"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.9735,
+          "token_id": "23576556728210778853266009911465819757701614236785446916768861380535248153071"
+        }
+      ],
+      "cost": 0.977,
+      "profit": 0.02300000000000002,
+      "roi_pct": 2.354145342886389
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Ukraine by March 31?",
+        "Will Qatar strike Iran by March 31?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.009,
+          "token_id": "5069207684430154337306377335661775351188977133641118903474402101762164819075"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.968,
+          "token_id": "624805853743069021770497200644159037049111141216581424603124357722002489342"
+        }
+      ],
+      "cost": 0.977,
+      "profit": 0.02300000000000002,
+      "roi_pct": 2.354145342886389
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 400-419 tweets from March 27 to April 3, 2026?",
+        "Will Elon Musk post 400-419 tweets from March 31 to April 7, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0085,
+          "token_id": "8733799014185236346663913001846774289315891863943050247106874200428443291263"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.9695,
+          "token_id": "55051860341674604079277409511182089428018839798763280246314954768805061972519"
+        }
+      ],
+      "cost": 0.978,
+      "profit": 0.02200000000000002,
+      "roi_pct": 2.2494887525562395
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Azerbaijan by March 31?",
+        "Will Qatar strike Iran by March 31?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.01,
+          "token_id": "35024366452174888624674802215999244283239195090458924641111083930857986479935"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.968,
+          "token_id": "624805853743069021770497200644159037049111141216581424603124357722002489342"
+        }
+      ],
+      "cost": 0.978,
+      "profit": 0.02200000000000002,
+      "roi_pct": 2.2494887525562395
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 380-399 tweets from March 27 to April 3, 2026?",
+        "Will Elon Musk post 380-399 tweets from March 31 to April 7, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0145,
+          "token_id": "113876200804413915105490498087749193928952866495793932126939585942778358072901"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.9645,
+          "token_id": "89098963776591604957718011435997720160094324364811036529881692736540042153530"
+        }
+      ],
+      "cost": 0.979,
+      "profit": 0.02100000000000002,
+      "roi_pct": 2.145045965270686
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 140-164 tweets from March 28 to March 30, 2026?",
+        "Will Elon Musk post 140-164 tweets from March 30 to April 1, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0005,
+          "token_id": "4801724398376044701012855332689636953309796721660400399823120178918999221016"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.979,
+          "token_id": "3266656079424964601991291314226994366085598838825373619684735590947981660756"
+        }
+      ],
+      "cost": 0.9794999999999999,
+      "profit": 0.020500000000000074,
+      "roi_pct": 2.0929045431342597
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Germany by March 31?",
+        "Will UAE strike Iran by March 31?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.006,
+          "token_id": "91081992195665195772430291703913960940051747275859758586526277601689684535080"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.9735,
+          "token_id": "23576556728210778853266009911465819757701614236785446916768861380535248153071"
+        }
+      ],
+      "cost": 0.9795,
+      "profit": 0.020499999999999963,
+      "roi_pct": 2.092904543134248
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 280-299 tweets from March 27 to April 3, 2026?",
+        "Will Elon Musk post 280-299 tweets from March 31 to April 7, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.105,
+          "token_id": "89866699785528924286664266838126995731196403188329068539705279367058761803929"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.875,
+          "token_id": "21369315037021788543924645147611861814045420976970148950564273735726462079868"
+        }
+      ],
+      "cost": 0.98,
+      "profit": 0.020000000000000018,
+      "roi_pct": 2.040816326530614
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 160-179 tweets from March 24 to March 31, 2026?",
+        "Will Elon Musk post 160-179 tweets from March 31 to April 7, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0005,
+          "token_id": "76533095961325969406634307580489286931816197257156281654333971967874367474795"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.9805,
+          "token_id": "73268766374414791102145199211276469065387906239286076315579951630242156357741"
+        }
+      ],
+      "cost": 0.981,
+      "profit": 0.019000000000000017,
+      "roi_pct": 1.9367991845056083
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Minnesota Timberwolves win the 2026 NBA Finals?",
+        "Will the Minnesota Timberwolves win the NBA Western Conference Finals?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0185,
+          "token_id": "5771676627182954113677164857547228277089396639521594262964034606220001939923"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.963,
+          "token_id": "49028495687486892054365092594166410364434486278679913735039487330259821983425"
+        }
+      ],
+      "cost": 0.9814999999999999,
+      "profit": 0.018500000000000072,
+      "roi_pct": 1.8848700967906342
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 420-439 tweets from March 24 to March 31, 2026?",
+        "Will Elon Musk post 420-439 tweets from March 31 to April 7, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0005,
+          "token_id": "39801220608836487600721306226000749787818270346994322146561526315404374992540"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.9815,
+          "token_id": "73845290440826554076626007521036486433703577451897454411747877552558506612497"
+        }
+      ],
+      "cost": 0.982,
+      "profit": 0.018000000000000016,
+      "roi_pct": 1.8329938900203684
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will OpenAI have the best AI model at the end of March 2026?",
+        "Will OpenAI have the best AI model at the end of April 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.001,
+          "token_id": "82771945684613191575918816812746438965336531953746232611343932299736525251652"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.981,
+          "token_id": "66562596730447813445640757277939077563428170388449677106022150350646767464964"
+        }
+      ],
+      "cost": 0.982,
+      "profit": 0.018000000000000016,
+      "roi_pct": 1.8329938900203684
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Ukraine by March 31?",
+        "Will UAE strike Iran by March 31?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.009,
+          "token_id": "5069207684430154337306377335661775351188977133641118903474402101762164819075"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.9735,
+          "token_id": "23576556728210778853266009911465819757701614236785446916768861380535248153071"
+        }
+      ],
+      "cost": 0.9825,
+      "profit": 0.01749999999999996,
+      "roi_pct": 1.7811704834605555
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Spain by March 31?",
+        "Will Bahrain strike Iran by March 31?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0015,
+          "token_id": "104683413885067808975222906079855819021107805627832505411146946881546162086162"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.982,
+          "token_id": "101150453399331838263668029045452936535226249717423515421014109443015561794779"
+        }
+      ],
+      "cost": 0.9834999999999999,
+      "profit": 0.01650000000000007,
+      "roi_pct": 1.6776817488561333
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Azerbaijan by March 31?",
+        "Will UAE strike Iran by March 31?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.01,
+          "token_id": "35024366452174888624674802215999244283239195090458924641111083930857986479935"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.9735,
+          "token_id": "23576556728210778853266009911465819757701614236785446916768861380535248153071"
+        }
+      ],
+      "cost": 0.9835,
+      "profit": 0.01649999999999996,
+      "roi_pct": 1.6776817488561218
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Based FDV above $300M one day after launch?",
+        "Reya FDV above $300M one day after launch?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0465,
+          "token_id": "32167805967456186826544562171868027786298431809218051296189436598677574491705"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.9385,
+          "token_id": "20517723792977655838184985655351481740775458730893713227702286796458943459959"
+        }
+      ],
+      "cost": 0.985,
+      "profit": 0.015000000000000013,
+      "roi_pct": 1.52284263959391
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the price of Bitcoin be above $74,000 on March 30?",
+        "Will the price of Bitcoin be above $74,000 on March 31?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0005,
+          "token_id": "49729618145842339910258972537263492239180559142084077330080234332514402782327"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.985,
+          "token_id": "40864258770279538997932074379150817851776540680680806217678466771879921102424"
+        }
+      ],
+      "cost": 0.9854999999999999,
+      "profit": 0.014500000000000068,
+      "roi_pct": 1.4713343480466838
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Poland by March 31?",
+        "Will Bahrain strike Iran by March 31?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0035,
+          "token_id": "70260696878766531015363893788652256044388380106161743455545513947529672264861"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.982,
+          "token_id": "101150453399331838263668029045452936535226249717423515421014109443015561794779"
+        }
+      ],
+      "cost": 0.9854999999999999,
+      "profit": 0.014500000000000068,
+      "roi_pct": 1.4713343480466838
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?",
+        "Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0045,
+          "token_id": "18690049947242812495755151360212639738977254879109748949267393375856311641700"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.982,
+          "token_id": "81718924566344342339932153243056822500865643754622838691875214933560980686588"
+        }
+      ],
+      "cost": 0.9864999999999999,
+      "profit": 0.013500000000000068,
+      "roi_pct": 1.3684744044602197
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Spain by March 31?",
+        "Will Kuwait strike Iran by March 31?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0015,
+          "token_id": "104683413885067808975222906079855819021107805627832505411146946881546162086162"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.985,
+          "token_id": "62960443217379191747356574597999718428523049873851010543035376751956168232606"
+        }
+      ],
+      "cost": 0.9864999999999999,
+      "profit": 0.013500000000000068,
+      "roi_pct": 1.3684744044602197
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 420-439 tweets from March 27 to April 3, 2026?",
+        "Will Elon Musk post 420-439 tweets from March 31 to April 7, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0055,
+          "token_id": "6923264025484256283764859447975142811691307054532187659680072042494035610284"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.9815,
+          "token_id": "73845290440826554076626007521036486433703577451897454411747877552558506612497"
+        }
+      ],
+      "cost": 0.987,
+      "profit": 0.013000000000000012,
+      "roi_pct": 1.3171225937183395
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 440-459 tweets from March 24 to March 31, 2026?",
+        "Will Elon Musk post 440-459 tweets from March 31 to April 7, 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0005,
+          "token_id": "6696488284621156617684725100580114378928871642914228760631286620097264996527"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.9865,
+          "token_id": "82265189904265727398268744299030001649947014424631638410710078527977419784185"
+        }
+      ],
+      "cost": 0.987,
+      "profit": 0.013000000000000012,
+      "roi_pct": 1.3171225937183395
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will DeepSeek have the best AI model at the end of March 2026?",
+        "Will DeepSeek have the best AI model at the end of April 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0005,
+          "token_id": "46551849505221374547610168515331651824748662034006159370798381394329798321337"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.9865,
+          "token_id": "30075465254134656404187640443235161282116785974807420507152043117645610577746"
+        }
+      ],
+      "cost": 0.987,
+      "profit": 0.013000000000000012,
+      "roi_pct": 1.3171225937183395
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed increase interest rates by 25 bps after the June 2026 meeting?",
+        "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.06,
+          "token_id": "54688507565884542490190759171719899637342914252863057837926715255559077706253"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.927,
+          "token_id": "102979714187432523726496609637889951679226430871494531752837414533106422105296"
+        }
+      ],
+      "cost": 0.9870000000000001,
+      "profit": 0.0129999999999999,
+      "roi_pct": 1.3171225937183282
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Germany by March 31?",
+        "Will Bahrain strike Iran by March 31?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.006,
+          "token_id": "91081992195665195772430291703913960940051747275859758586526277601689684535080"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.982,
+          "token_id": "101150453399331838263668029045452936535226249717423515421014109443015561794779"
+        }
+      ],
+      "cost": 0.988,
+      "profit": 0.01200000000000001,
+      "roi_pct": 1.2145748987854261
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Poland by March 31?",
+        "Will Kuwait strike Iran by March 31?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0035,
+          "token_id": "70260696878766531015363893788652256044388380106161743455545513947529672264861"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.985,
+          "token_id": "62960443217379191747356574597999718428523049873851010543035376751956168232606"
+        }
+      ],
+      "cost": 0.9884999999999999,
+      "profit": 0.011500000000000066,
+      "roi_pct": 1.1633788568538257
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Romania win Eurovision 2026?",
+        "Will Romania win the televote for Eurovision 2026?"
+      ],
+      "legs": [
+        {
+          "side": "BUY",
+          "outcome": "YES",
+          "price": 0.0165,
+          "token_id": "62773642652981239667825138150364360878883058807515063356324655688311569154350"
+        },
+        {
+          "side": "BUY",
+          "outcome": "NO",
+          "price": 0.9725,
+          "token_id": "102497842765367014865998841742452092585137893576036655863842527663222463895260"
+        }
+      ],
+      "cost": 0.989,
+      "profit": 0.01100000000000001,
+      "roi_pct": 1.1122345803842275
+    }
+  ]
+}

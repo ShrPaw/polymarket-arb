@@ -1,0 +1,501 @@
+{
+  "timestamp": "2026-03-30T06:09:26.541227+00:00",
+  "markets": 1256,
+  "relationships": 27719,
+  "raw_opps": 54,
+  "fillable": 31,
+  "fillable_opps": [
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Trump visit China by May 31?",
+        "Will Trump visit China by April 30?"
+      ],
+      "roi_pct": 261.0108303249097,
+      "cost": 0.277,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Trump visit China by June 30?",
+        "Will Trump visit China by April 30?"
+      ],
+      "roi_pct": 420.8333333333332,
+      "cost": 0.19200000000000003,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (HIGH) $100 by end of March?",
+        "Will Crude Oil (CL) hit (HIGH) $100 by end of June?"
+      ],
+      "roi_pct": 22.100122100122107,
+      "cost": 0.819,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (LOW) $50 by end of March?",
+        "Will Crude Oil (CL) hit (LOW) $50 by end of June?"
+      ],
+      "roi_pct": 6.269925611052078,
+      "cost": 0.941,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (LOW) $40 by end of March?",
+        "Will Crude Oil (CL) hit (LOW) $40 by end of June?"
+      ],
+      "roi_pct": 4.058272632674301,
+      "cost": 0.961,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (LOW) $55 by end of March?",
+        "Will Crude Oil (CL) hit (LOW) $55 by end of June?"
+      ],
+      "roi_pct": 9.829763866007692,
+      "cost": 0.9105,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (LOW) $45 by end of March?",
+        "Will Crude Oil (CL) hit (LOW) $45 by end of June?"
+      ],
+      "roi_pct": 3.842159916926276,
+      "cost": 0.963,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (HIGH) $200 by end of March?",
+        "Will Crude Oil (CL) hit (HIGH) $200 by end of June?"
+      ],
+      "roi_pct": 15.54015020219527,
+      "cost": 0.8654999999999999,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (LOW) $85 by end of March?",
+        "Will Crude Oil (CL) hit (LOW) $85 by end of June?"
+      ],
+      "roi_pct": 96.46365422396856,
+      "cost": 0.509,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the price of Bitcoin be above $74,000 on March 30?",
+        "Will the price of Bitcoin be above $74,000 on March 31?"
+      ],
+      "roi_pct": 1.4713343480466838,
+      "cost": 0.9854999999999999,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the price of Bitcoin be above $68,000 on March 30?",
+        "Will the price of Bitcoin be above $68,000 on March 31?"
+      ],
+      "roi_pct": 4.1666666666666705,
+      "cost": 0.96,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the price of Bitcoin be above $70,000 on March 30?",
+        "Will the price of Bitcoin be above $70,000 on March 31?"
+      ],
+      "roi_pct": 12.676056338028175,
+      "cost": 0.8875,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the price of Bitcoin be above $72,000 on March 30?",
+        "Will the price of Bitcoin be above $72,000 on March 31?"
+      ],
+      "roi_pct": 2.145045965270686,
+      "cost": 0.979,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Iranian regime fall by April 30?",
+        "Will the Iranian regime fall by June 30?"
+      ],
+      "roi_pct": 13.63636363636365,
+      "cost": 0.8799999999999999,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Spain by March 31?",
+        "Will UAE strike Iran by March 31?"
+      ],
+      "roi_pct": 2.6694045174538013,
+      "cost": 0.974,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Spain by March 31?",
+        "Will Qatar strike Iran by March 31?"
+      ],
+      "roi_pct": 3.3591731266149965,
+      "cost": 0.9674999999999999,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Spain by March 31?",
+        "Will Bahrain strike Iran by March 31?"
+      ],
+      "roi_pct": 1.1122345803842275,
+      "cost": 0.989,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Spain by March 31?",
+        "Will Kuwait strike Iran by March 31?"
+      ],
+      "roi_pct": 1.0611419909045037,
+      "cost": 0.9894999999999999,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Germany by March 31?",
+        "Will UAE strike Iran by March 31?"
+      ],
+      "roi_pct": 2.1972406745017845,
+      "cost": 0.9785,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Germany by March 31?",
+        "Will Qatar strike Iran by March 31?"
+      ],
+      "roi_pct": 2.880658436213994,
+      "cost": 0.972,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Poland by March 31?",
+        "Will UAE strike Iran by March 31?"
+      ],
+      "roi_pct": 2.4590163934426252,
+      "cost": 0.976,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Poland by March 31?",
+        "Will Qatar strike Iran by March 31?"
+      ],
+      "roi_pct": 3.1459515214027935,
+      "cost": 0.9694999999999999,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Ukraine by March 31?",
+        "Will UAE strike Iran by March 31?"
+      ],
+      "roi_pct": 1.8848700967906227,
+      "cost": 0.9815,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Ukraine by March 31?",
+        "Will Qatar strike Iran by March 31?"
+      ],
+      "roi_pct": 2.5641025641025665,
+      "cost": 0.975,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Azerbaijan by March 31?",
+        "Will UAE strike Iran by March 31?"
+      ],
+      "roi_pct": 1.7811704834605555,
+      "cost": 0.9825,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Azerbaijan by March 31?",
+        "Will Qatar strike Iran by March 31?"
+      ],
+      "roi_pct": 2.4590163934426252,
+      "cost": 0.976,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Gensyn FDV above $1B one day after launch?",
+        "EdgeX FDV above $1B one day after launch?"
+      ],
+      "roi_pct": 2.774922918807802,
+      "cost": 0.9730000000000001,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Gensyn FDV above $2B one day after launch?",
+        "StandX FDV above $2B one day after launch?"
+      ],
+      "roi_pct": 8.813928182807395,
+      "cost": 0.919,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "EdgeX FDV above $2B one day after launch?",
+        "StandX FDV above $2B one day after launch?"
+      ],
+      "roi_pct": 8.40108401084011,
+      "cost": 0.9225,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "EdgeX FDV above $3B one day after launch?",
+        "StandX FDV above $3B one day after launch?"
+      ],
+      "roi_pct": 4.1666666666666705,
+      "cost": 0.96,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "EdgeX FDV above $5B one day after launch?",
+        "StandX FDV above $5B one day after launch?"
+      ],
+      "roi_pct": 2.511532547411592,
+      "cost": 0.9754999999999999,
+      "legs": []
+    }
+  ],
+  "skipped": [
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (HIGH) $120 by end of March?",
+        "Will Crude Oil (CL) hit (HIGH) $120 by end of June?"
+      ],
+      "roi_pct": 152.20680958385876,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (HIGH) $110 by end of March?",
+        "Will Crude Oil (CL) hit (HIGH) $110 by end of June?"
+      ],
+      "roi_pct": 162.12319790301447,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (LOW) $60 by end of March?",
+        "Will Crude Oil (CL) hit (LOW) $60 by end of June?"
+      ],
+      "roi_pct": 20.120120120120134,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (LOW) $80 by end of March?",
+        "Will Crude Oil (CL) hit (LOW) $80 by end of June?"
+      ],
+      "roi_pct": 94.17475728155338,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (LOW) $70 by end of March?",
+        "Will Crude Oil (CL) hit (LOW) $70 by end of June?"
+      ],
+      "roi_pct": 38.9854065323141,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (HIGH) $150 by end of March?",
+        "Will Crude Oil (CL) hit (HIGH) $150 by end of June?"
+      ],
+      "roi_pct": 32.97872340425532,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (HIGH) $140 by end of March?",
+        "Will Crude Oil (CL) hit (HIGH) $140 by end of June?"
+      ],
+      "roi_pct": 48.478099480326655,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (HIGH) $105 by end of March?",
+        "Will Crude Oil (CL) hit (HIGH) $105 by end of June?"
+      ],
+      "roi_pct": 122.71714922048996,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (HIGH) $130 by end of March?",
+        "Will Crude Oil (CL) hit (HIGH) $130 by end of June?"
+      ],
+      "roi_pct": 86.21973929236498,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Hezbollah conduct military action against Israel on March 29, 2026?",
+        "Will Iran conduct a military action against Israel on March 27, 2026?"
+      ],
+      "roi_pct": 46.30577907827359,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Hezbollah conduct military action against Israel on March 29, 2026?",
+        "Will Iran conduct a military action against Israel on March 30, 2026?"
+      ],
+      "roi_pct": 30.71895424836601,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Hezbollah conduct military action against Israel on March 29, 2026?",
+        "Will Iran conduct a military action against Israel on March 31, 2026?"
+      ],
+      "roi_pct": 30.71895424836601,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Hezbollah conduct military action against Israel on March 31, 2026?",
+        "Will Iran conduct a military action against Israel on March 27, 2026?"
+      ],
+      "roi_pct": 12.549240292628031,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Hezbollah conduct military action against Israel on March 31, 2026?",
+        "Will Iran conduct a military action against Israel on March 30, 2026?"
+      ],
+      "roi_pct": 3.092783505154642,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Hezbollah conduct military action against Israel on March 31, 2026?",
+        "Will Iran conduct a military action against Israel on March 31, 2026?"
+      ],
+      "roi_pct": 3.092783505154642,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Hezbollah conduct military action against Israel on March 30, 2026?",
+        "Will Iran conduct a military action against Israel on March 27, 2026?"
+      ],
+      "roi_pct": 11.919418019026306,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Hezbollah conduct military action against Israel on March 30, 2026?",
+        "Will Iran conduct a military action against Israel on March 30, 2026?"
+      ],
+      "roi_pct": 2.5641025641025665,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Hezbollah conduct military action against Israel on March 30, 2026?",
+        "Will Iran conduct a military action against Israel on March 31, 2026?"
+      ],
+      "roi_pct": 2.5641025641025665,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Gensyn FDV above $600M one day after launch?",
+        "EdgeX FDV above $600M one day after launch?"
+      ],
+      "roi_pct": 16.27906976744186,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Gensyn FDV above $1B one day after launch?",
+        "StandX FDV above $1B one day after launch?"
+      ],
+      "roi_pct": 6.044538706256621,
+      "reason": "insufficient book depth"
+    }
+  ]
+}

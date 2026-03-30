@@ -1,0 +1,1251 @@
+{
+  "timestamp": "2026-03-30T06:08:05.716960+00:00",
+  "markets": 2026,
+  "relationships": 44396,
+  "raw_opps": 145,
+  "fillable": 106,
+  "fillable_opps": [
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Trump visit China by May 31?",
+        "Will Trump visit China by April 30?"
+      ],
+      "roi_pct": 261.0108303249097,
+      "cost": 0.277,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Trump visit China by June 30?",
+        "Will Trump visit China by April 30?"
+      ],
+      "roi_pct": 420.8333333333332,
+      "cost": 0.19200000000000003,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Iran x Israel/US conflict ends by December 31?",
+        "Iran x Israel/US conflict ends by June 30?"
+      ],
+      "roi_pct": 19.760479041916174,
+      "cost": 0.835,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will SpaceX IPO by June 30, 2026?",
+        "Will SpaceX IPO by April 30, 2026?"
+      ],
+      "roi_pct": 152.20680958385879,
+      "cost": 0.39649999999999996,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will SpaceX IPO by September 30, 2026?",
+        "Will SpaceX IPO by April 30, 2026?"
+      ],
+      "roi_pct": 483.0903790087464,
+      "cost": 0.17149999999999999,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will SpaceX IPO by December 31, 2026?",
+        "Will SpaceX IPO by April 30, 2026?"
+      ],
+      "roi_pct": 723.0452674897123,
+      "cost": 0.12149999999999996,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "MicroStrategy sells any Bitcoin by December 31, 2026?",
+        "MicroStrategy sells any Bitcoin by June 30, 2026?"
+      ],
+      "roi_pct": 10.987791342952272,
+      "cost": 0.901,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 280-299 tweets from March 27 to April 3, 2026?",
+        "Will Elon Musk post 280-299 tweets from March 31 to April 7, 2026?"
+      ],
+      "roi_pct": 3.092783505154642,
+      "cost": 0.97,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 300-319 tweets from March 27 to April 3, 2026?",
+        "Will Elon Musk post 300-319 tweets from March 31 to April 7, 2026?"
+      ],
+      "roi_pct": 4.1666666666666705,
+      "cost": 0.96,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 320-339 tweets from March 27 to April 3, 2026?",
+        "Will Elon Musk post 320-339 tweets from March 31 to April 7, 2026?"
+      ],
+      "roi_pct": 6.723585912486653,
+      "cost": 0.937,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 340-359 tweets from March 27 to April 3, 2026?",
+        "Will Elon Musk post 340-359 tweets from March 31 to April 7, 2026?"
+      ],
+      "roi_pct": 6.553010122535961,
+      "cost": 0.9385,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 360-379 tweets from March 27 to April 3, 2026?",
+        "Will Elon Musk post 360-379 tweets from March 31 to April 7, 2026?"
+      ],
+      "roi_pct": 2.8277634961439673,
+      "cost": 0.9724999999999999,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 380-399 tweets from March 27 to April 3, 2026?",
+        "Will Elon Musk post 380-399 tweets from March 31 to April 7, 2026?"
+      ],
+      "roi_pct": 2.145045965270686,
+      "cost": 0.979,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 400-419 tweets from March 27 to April 3, 2026?",
+        "Will Elon Musk post 400-419 tweets from March 31 to April 7, 2026?"
+      ],
+      "roi_pct": 2.354145342886389,
+      "cost": 0.977,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 420-439 tweets from March 27 to April 3, 2026?",
+        "Will Elon Musk post 420-439 tweets from March 31 to April 7, 2026?"
+      ],
+      "roi_pct": 1.3684744044602084,
+      "cost": 0.9865,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (HIGH) $100 by end of March?",
+        "Will Crude Oil (CL) hit (HIGH) $100 by end of June?"
+      ],
+      "roi_pct": 22.100122100122107,
+      "cost": 0.819,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (LOW) $50 by end of March?",
+        "Will Crude Oil (CL) hit (LOW) $50 by end of June?"
+      ],
+      "roi_pct": 6.269925611052078,
+      "cost": 0.941,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (LOW) $40 by end of March?",
+        "Will Crude Oil (CL) hit (LOW) $40 by end of June?"
+      ],
+      "roi_pct": 4.058272632674301,
+      "cost": 0.961,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (LOW) $55 by end of March?",
+        "Will Crude Oil (CL) hit (LOW) $55 by end of June?"
+      ],
+      "roi_pct": 9.829763866007692,
+      "cost": 0.9105,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (LOW) $45 by end of March?",
+        "Will Crude Oil (CL) hit (LOW) $45 by end of June?"
+      ],
+      "roi_pct": 3.842159916926276,
+      "cost": 0.963,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (HIGH) $200 by end of March?",
+        "Will Crude Oil (CL) hit (HIGH) $200 by end of June?"
+      ],
+      "roi_pct": 15.54015020219527,
+      "cost": 0.8654999999999999,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (LOW) $85 by end of March?",
+        "Will Crude Oil (CL) hit (LOW) $85 by end of June?"
+      ],
+      "roi_pct": 96.46365422396856,
+      "cost": 0.509,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Moldova win Eurovision 2026?",
+        "Will Moldova win the televote for Eurovision 2026?"
+      ],
+      "roi_pct": 2.6167265264238035,
+      "cost": 0.9745,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Greece win Eurovision 2026?",
+        "Will Greece win the televote for Eurovision 2026?"
+      ],
+      "roi_pct": 13.507377979568671,
+      "cost": 0.881,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Romania win Eurovision 2026?",
+        "Will Romania win the televote for Eurovision 2026?"
+      ],
+      "roi_pct": 1.3684744044602197,
+      "cost": 0.9864999999999999,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 160-179 tweets from March 24 to March 31, 2026?",
+        "Will Elon Musk post 160-179 tweets from March 31 to April 7, 2026?"
+      ],
+      "roi_pct": 1.9367991845056083,
+      "cost": 0.981,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 260-279 tweets from March 24 to March 31, 2026?",
+        "Will Elon Musk post 260-279 tweets from March 31 to April 7, 2026?"
+      ],
+      "roi_pct": 9.709270433351621,
+      "cost": 0.9115,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 300-319 tweets from March 24 to March 31, 2026?",
+        "Will Elon Musk post 300-319 tweets from March 31 to April 7, 2026?"
+      ],
+      "roi_pct": 10.987791342952272,
+      "cost": 0.901,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 400-419 tweets from March 24 to March 31, 2026?",
+        "Will Elon Musk post 400-419 tweets from March 31 to April 7, 2026?"
+      ],
+      "roi_pct": 3.092783505154642,
+      "cost": 0.97,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 420-439 tweets from March 24 to March 31, 2026?",
+        "Will Elon Musk post 420-439 tweets from March 31 to April 7, 2026?"
+      ],
+      "roi_pct": 1.8329938900203684,
+      "cost": 0.982,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 280-299 tweets from March 24 to March 31, 2026?",
+        "Will Elon Musk post 280-299 tweets from March 31 to April 7, 2026?"
+      ],
+      "roi_pct": 12.422709387296239,
+      "cost": 0.8895,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 320-339 tweets from March 24 to March 31, 2026?",
+        "Will Elon Musk post 320-339 tweets from March 31 to April 7, 2026?"
+      ],
+      "roi_pct": 11.420612813370477,
+      "cost": 0.8975,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 340-359 tweets from March 24 to March 31, 2026?",
+        "Will Elon Musk post 340-359 tweets from March 31 to April 7, 2026?"
+      ],
+      "roi_pct": 9.229929000546152,
+      "cost": 0.9155,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 360-379 tweets from March 24 to March 31, 2026?",
+        "Will Elon Musk post 360-379 tweets from March 31 to April 7, 2026?"
+      ],
+      "roi_pct": 4.657247514390382,
+      "cost": 0.9554999999999999,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 380-399 tweets from March 24 to March 31, 2026?",
+        "Will Elon Musk post 380-399 tweets from March 31 to April 7, 2026?"
+      ],
+      "roi_pct": 3.6269430051813503,
+      "cost": 0.965,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 440-459 tweets from March 24 to March 31, 2026?",
+        "Will Elon Musk post 440-459 tweets from March 31 to April 7, 2026?"
+      ],
+      "roi_pct": 1.3171225937183395,
+      "cost": 0.987,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the price of Bitcoin be above $74,000 on March 30?",
+        "Will the price of Bitcoin be above $74,000 on March 31?"
+      ],
+      "roi_pct": 1.4713343480466838,
+      "cost": 0.9854999999999999,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the price of Bitcoin be above $68,000 on March 30?",
+        "Will the price of Bitcoin be above $68,000 on March 31?"
+      ],
+      "roi_pct": 4.1666666666666705,
+      "cost": 0.96,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the price of Bitcoin be above $68,000 on March 30?",
+        "Will the price of Bitcoin be between $66,000 and $68,000 on March 30?"
+      ],
+      "roi_pct": 14.942528735632186,
+      "cost": 0.87,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the price of Bitcoin be above $70,000 on March 30?",
+        "Will the price of Bitcoin be above $70,000 on March 31?"
+      ],
+      "roi_pct": 12.676056338028175,
+      "cost": 0.8875,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the price of Bitcoin be above $72,000 on March 30?",
+        "Will the price of Bitcoin be above $72,000 on March 31?"
+      ],
+      "roi_pct": 2.145045965270686,
+      "cost": 0.979,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the price of Bitcoin be above $72,000 on March 30?",
+        "Will the price of Bitcoin be between $70,000 and $72,000 on March 30?"
+      ],
+      "roi_pct": 2.4590163934426252,
+      "cost": 0.976,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+        "Will the Oklahoma City Thunder win the NBA Western Conference Finals?"
+      ],
+      "roi_pct": 12.994350282485875,
+      "cost": 0.885,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Minnesota Timberwolves win the 2026 NBA Finals?",
+        "Will the Minnesota Timberwolves win the NBA Western Conference Finals?"
+      ],
+      "roi_pct": 1.8848700967906342,
+      "cost": 0.9814999999999999,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Denver Nuggets win the 2026 NBA Finals?",
+        "Will the Denver Nuggets win the NBA Western Conference Finals?"
+      ],
+      "roi_pct": 2.5641025641025665,
+      "cost": 0.975,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the San Antonio Spurs win the 2026 NBA Finals?",
+        "Will the San Antonio Spurs win the NBA Western Conference Finals?"
+      ],
+      "roi_pct": 6.49627263045794,
+      "cost": 0.939,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Los Angeles Lakers win the 2026 NBA Finals?",
+        "Will the Los Angeles Lakers win the NBA Western Conference Finals?"
+      ],
+      "roi_pct": 2.406554019457253,
+      "cost": 0.9764999999999999,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?",
+        "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?"
+      ],
+      "roi_pct": 6.439595529536987,
+      "cost": 0.9395,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?",
+        "Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?"
+      ],
+      "roi_pct": 1.3684744044602197,
+      "cost": 0.9864999999999999,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?",
+        "Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?"
+      ],
+      "roi_pct": 15.008625646923527,
+      "cost": 0.8694999999999999,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?",
+        "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?"
+      ],
+      "roi_pct": 5.764145954521417,
+      "cost": 0.9455,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?",
+        "Will the Fed increase interest rates by 25 bps after the June 2026 meeting?"
+      ],
+      "roi_pct": 5.263157894736848,
+      "cost": 0.95,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?",
+        "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+      ],
+      "roi_pct": 6.609808102345421,
+      "cost": 0.938,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?",
+        "Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?"
+      ],
+      "roi_pct": 14.220445459737299,
+      "cost": 0.8755,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?",
+        "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?"
+      ],
+      "roi_pct": 4.876769795490297,
+      "cost": 0.9535,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?",
+        "Will the Fed increase interest rates by 25 bps after the June 2026 meeting?"
+      ],
+      "roi_pct": 4.384133611691027,
+      "cost": 0.958,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?",
+        "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+      ],
+      "roi_pct": 5.70824524312897,
+      "cost": 0.946,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?",
+        "Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?"
+      ],
+      "roi_pct": 13.186191284663277,
+      "cost": 0.8835,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 65-89 tweets from March 28 to March 30, 2026?",
+        "Will Elon Musk post 65-89 tweets from March 30 to April 1, 2026?"
+      ],
+      "roi_pct": 38.88888888888889,
+      "cost": 0.72,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 90-114 tweets from March 28 to March 30, 2026?",
+        "Will Elon Musk post 90-114 tweets from March 30 to April 1, 2026?"
+      ],
+      "roi_pct": 15.008625646923527,
+      "cost": 0.8694999999999999,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 115-139 tweets from March 28 to March 30, 2026?",
+        "Will Elon Musk post 115-139 tweets from March 30 to April 1, 2026?"
+      ],
+      "roi_pct": 5.70824524312897,
+      "cost": 0.946,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post 140-164 tweets from March 28 to March 30, 2026?",
+        "Will Elon Musk post 140-164 tweets from March 30 to April 1, 2026?"
+      ],
+      "roi_pct": 2.145045965270686,
+      "cost": 0.979,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will there be between 10 and 20 average daily transits of the Strait of Hormuz on March 31?",
+        "Will there be between 10 and 20 average daily transits of the Strait of Hormuz on April 3?"
+      ],
+      "roi_pct": 18.553645524599894,
+      "cost": 0.8434999999999999,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Iranian regime fall by April 30?",
+        "Will the Iranian regime fall by June 30?"
+      ],
+      "roi_pct": 13.63636363636365,
+      "cost": 0.8799999999999999,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will SpaceX's market cap be less than $1.0T at market close on IPO day?",
+        "Will SpaceX's market cap be greater than $1T at market close on IPO day?"
+      ],
+      "roi_pct": 1062.7906976744193,
+      "cost": 0.08599999999999995,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Spain by March 31?",
+        "Will UAE strike Iran by March 31?"
+      ],
+      "roi_pct": 2.6694045174538013,
+      "cost": 0.974,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Spain by March 31?",
+        "Will Qatar strike Iran by March 31?"
+      ],
+      "roi_pct": 3.3591731266149965,
+      "cost": 0.9674999999999999,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Spain by March 31?",
+        "Will Bahrain strike Iran by March 31?"
+      ],
+      "roi_pct": 1.1122345803842275,
+      "cost": 0.989,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Spain by March 31?",
+        "Will Kuwait strike Iran by March 31?"
+      ],
+      "roi_pct": 1.0611419909045037,
+      "cost": 0.9894999999999999,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Germany by March 31?",
+        "Will UAE strike Iran by March 31?"
+      ],
+      "roi_pct": 2.1972406745017845,
+      "cost": 0.9785,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Germany by March 31?",
+        "Will Qatar strike Iran by March 31?"
+      ],
+      "roi_pct": 2.880658436213994,
+      "cost": 0.972,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Poland by March 31?",
+        "Will UAE strike Iran by March 31?"
+      ],
+      "roi_pct": 2.4590163934426252,
+      "cost": 0.976,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Poland by March 31?",
+        "Will Qatar strike Iran by March 31?"
+      ],
+      "roi_pct": 3.1459515214027935,
+      "cost": 0.9694999999999999,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Ukraine by March 31?",
+        "Will UAE strike Iran by March 31?"
+      ],
+      "roi_pct": 1.8848700967906227,
+      "cost": 0.9815,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Ukraine by March 31?",
+        "Will Qatar strike Iran by March 31?"
+      ],
+      "roi_pct": 2.5641025641025665,
+      "cost": 0.975,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Azerbaijan by March 31?",
+        "Will UAE strike Iran by March 31?"
+      ],
+      "roi_pct": 1.7811704834605555,
+      "cost": 0.9825,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Iran strike Azerbaijan by March 31?",
+        "Will Qatar strike Iran by March 31?"
+      ],
+      "roi_pct": 2.4590163934426252,
+      "cost": 0.976,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Apple be the largest company in the world by market cap on March 31?",
+        "Will Apple be the second-largest company in the world by market cap on March 31?"
+      ],
+      "roi_pct": 10426.315789473678,
+      "cost": 0.009500000000000007,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Gensyn FDV above $1B one day after launch?",
+        "EdgeX FDV above $1B one day after launch?"
+      ],
+      "roi_pct": 2.774922918807802,
+      "cost": 0.9730000000000001,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Gensyn FDV above $2B one day after launch?",
+        "StandX FDV above $2B one day after launch?"
+      ],
+      "roi_pct": 8.813928182807395,
+      "cost": 0.919,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "EdgeX FDV above $2B one day after launch?",
+        "StandX FDV above $2B one day after launch?"
+      ],
+      "roi_pct": 8.40108401084011,
+      "cost": 0.9225,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "EdgeX FDV above $3B one day after launch?",
+        "StandX FDV above $3B one day after launch?"
+      ],
+      "roi_pct": 4.1666666666666705,
+      "cost": 0.96,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "EdgeX FDV above $5B one day after launch?",
+        "StandX FDV above $5B one day after launch?"
+      ],
+      "roi_pct": 2.511532547411592,
+      "cost": 0.9754999999999999,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Google have the best AI model at the end of March 2026?",
+        "Will Google have the best AI model at the end of April 2026?"
+      ],
+      "roi_pct": 3.7344398340249,
+      "cost": 0.964,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will OpenAI have the best AI model at the end of March 2026?",
+        "Will OpenAI have the best AI model at the end of April 2026?"
+      ],
+      "roi_pct": 1.8329938900203684,
+      "cost": 0.982,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will DeepSeek have the best AI model at the end of March 2026?",
+        "Will DeepSeek have the best AI model at the end of April 2026?"
+      ],
+      "roi_pct": 1.3684744044602197,
+      "cost": 0.9864999999999999,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?",
+        "Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?"
+      ],
+      "roi_pct": 7.526881720430115,
+      "cost": 0.9299999999999999,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed increase interest rates by 25 bps after the June 2026 meeting?",
+        "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+      ],
+      "roi_pct": 1.2145748987854261,
+      "cost": 0.988,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed increase interest rates by 25 bps after the June 2026 meeting?",
+        "Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?"
+      ],
+      "roi_pct": 8.049702863317128,
+      "cost": 0.9255,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting?",
+        "Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?"
+      ],
+      "roi_pct": 14.416475972540047,
+      "cost": 0.874,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the Fed increase interest rates by 50+ bps after the June 2026 meeting?",
+        "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?"
+      ],
+      "roi_pct": 6.609808102345421,
+      "cost": 0.938,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the highest temperature in Seoul be 20\u00b0C or higher on March 30?",
+        "Will the highest temperature in Tokyo be 20\u00b0C on March 30?"
+      ],
+      "roi_pct": 1880.1980198019787,
+      "cost": 0.05050000000000004,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Russia x Ukraine ceasefire by March 31, 2026?",
+        "Russia x Ukraine ceasefire by end of 2026?"
+      ],
+      "roi_pct": 37.64624913971096,
+      "cost": 0.7264999999999999,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the highest temperature in Miami be between 82-83\u00b0F on March 29?",
+        "Will the highest temperature in Dallas be between 82-83\u00b0F on March 29?"
+      ],
+      "roi_pct": 99900.00000000552,
+      "cost": 0.000999999999999945,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the highest temperature in Miami be between 84-85\u00b0F on March 29?",
+        "Will the highest temperature in Austin be between 84-85\u00b0F on March 29?"
+      ],
+      "roi_pct": 99900.00000000552,
+      "cost": 0.000999999999999945,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the highest temperature in Shanghai be 20\u00b0C on March 30?",
+        "Will the highest temperature in Tokyo be 20\u00b0C on March 30?"
+      ],
+      "roi_pct": 2147.1910112359533,
+      "cost": 0.04450000000000004,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Bitcoin Up or Down on March 30?",
+        "Bitcoin Up or Down - March 30, 12AM ET"
+      ],
+      "roi_pct": 27.307447485677915,
+      "cost": 0.7855,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Bitcoin Up or Down on March 30?",
+        "Ethereum Up or Down on March 30?"
+      ],
+      "roi_pct": 8.69565217391304,
+      "cost": 0.92,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the highest temperature in New York City be between 62-63\u00b0F on March 29?",
+        "Will the highest temperature in Chicago be between 62-63\u00b0F on March 29?"
+      ],
+      "roi_pct": 99900.00000000552,
+      "cost": 0.000999999999999945,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the highest temperature in New York City be between 64-65\u00b0F on March 29?",
+        "Will the highest temperature in Atlanta be between 64-65\u00b0F on March 29?"
+      ],
+      "roi_pct": 99900.00000000552,
+      "cost": 0.000999999999999945,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the highest temperature in Denver be between 82-83\u00b0F on March 29?",
+        "Will the highest temperature in Dallas be between 82-83\u00b0F on March 29?"
+      ],
+      "roi_pct": 49900.00000000138,
+      "cost": 0.001999999999999945,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Apple be the largest company in the world by market cap on April 30?",
+        "Will Apple be the second-largest company in the world by market cap on April 30?"
+      ],
+      "roi_pct": 167.02269692923903,
+      "cost": 0.37449999999999994,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the highest temperature in Atlanta be between 72-73\u00b0F on March 29?",
+        "Will the highest temperature in Los Angeles be between 72-73\u00b0F on March 29?"
+      ],
+      "roi_pct": 99900.00000000552,
+      "cost": 0.000999999999999945,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Bitcoin Up or Down - March 30, 1AM ET",
+        "Bitcoin Up or Down - March 30, 12AM ET"
+      ],
+      "roi_pct": 99900.00000000552,
+      "cost": 0.000999999999999945,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the highest temperature in Los Angeles be between 82-83\u00b0F on March 29?",
+        "Will the highest temperature in Dallas be between 82-83\u00b0F on March 29?"
+      ],
+      "roi_pct": 66566.66666666912,
+      "cost": 0.001499999999999945,
+      "legs": []
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will XRP dip to $1.20 March 23-29?",
+        "Will XRP dip to $1.20 in March?"
+      ],
+      "roi_pct": 5.207785376117844,
+      "cost": 0.9504999999999999,
+      "legs": []
+    }
+  ],
+  "skipped": [
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "US escorts commercial ship through Hormuz by April 30?",
+        "US escorts commercial ship through Hormuz by April 15?"
+      ],
+      "roi_pct": 16.959064327485383,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will SpaceX IPO by June 30, 2026?",
+        "Will SpaceX IPO by May 31, 2026?"
+      ],
+      "roi_pct": 82.98261665141811,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will SpaceX IPO by September 30, 2026?",
+        "Will SpaceX IPO by May 31, 2026?"
+      ],
+      "roi_pct": 211.04199066874028,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will SpaceX IPO by December 31, 2026?",
+        "Will SpaceX IPO by May 31, 2026?"
+      ],
+      "roi_pct": 268.32412523020264,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (HIGH) $120 by end of March?",
+        "Will Crude Oil (CL) hit (HIGH) $120 by end of June?"
+      ],
+      "roi_pct": 152.20680958385876,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (HIGH) $110 by end of March?",
+        "Will Crude Oil (CL) hit (HIGH) $110 by end of June?"
+      ],
+      "roi_pct": 162.12319790301447,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (LOW) $60 by end of March?",
+        "Will Crude Oil (CL) hit (LOW) $60 by end of June?"
+      ],
+      "roi_pct": 20.120120120120134,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (LOW) $80 by end of March?",
+        "Will Crude Oil (CL) hit (LOW) $80 by end of June?"
+      ],
+      "roi_pct": 94.17475728155338,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (LOW) $70 by end of March?",
+        "Will Crude Oil (CL) hit (LOW) $70 by end of June?"
+      ],
+      "roi_pct": 38.9854065323141,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (HIGH) $150 by end of March?",
+        "Will Crude Oil (CL) hit (HIGH) $150 by end of June?"
+      ],
+      "roi_pct": 32.97872340425532,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (HIGH) $140 by end of March?",
+        "Will Crude Oil (CL) hit (HIGH) $140 by end of June?"
+      ],
+      "roi_pct": 48.478099480326655,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (HIGH) $105 by end of March?",
+        "Will Crude Oil (CL) hit (HIGH) $105 by end of June?"
+      ],
+      "roi_pct": 122.71714922048996,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Crude Oil (CL) hit (HIGH) $130 by end of March?",
+        "Will Crude Oil (CL) hit (HIGH) $130 by end of June?"
+      ],
+      "roi_pct": 86.21973929236498,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Israel win Eurovision 2026?",
+        "Will Israel win the televote for Eurovision 2026?"
+      ],
+      "roi_pct": 40.154169586545194,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will the price of Bitcoin be above $70,000 on March 30?",
+        "Will the price of Bitcoin be between $68,000 and $70,000 on March 30?"
+      ],
+      "roi_pct": 43.36917562724014,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Elon Musk post <40 tweets from March 28 to March 30, 2026?",
+        "Will Elon Musk post <40 tweets from March 30 to April 1, 2026?"
+      ],
+      "roi_pct": 7.009095773140716,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Hezbollah conduct military action against Israel on March 29, 2026?",
+        "Will Iran conduct a military action against Israel on March 27, 2026?"
+      ],
+      "roi_pct": 46.30577907827359,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Hezbollah conduct military action against Israel on March 29, 2026?",
+        "Will Iran conduct a military action against Israel on March 30, 2026?"
+      ],
+      "roi_pct": 30.71895424836601,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Hezbollah conduct military action against Israel on March 29, 2026?",
+        "Will Iran conduct a military action against Israel on March 31, 2026?"
+      ],
+      "roi_pct": 30.71895424836601,
+      "reason": "insufficient book depth"
+    },
+    {
+      "kind": "combinatorial",
+      "markets": [
+        "Will Hezbollah conduct military action against Israel on March 31, 2026?",
+        "Will Iran conduct a military action against Israel on March 27, 2026?"
+      ],
+      "roi_pct": 12.549240292628031,
+      "reason": "insufficient book depth"
+    }
+  ]
+}
